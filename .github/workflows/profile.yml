@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  update-readme-with-youtubevideos:
     name: Update this repo's README with the contents from my other sites.
     runs-on: ubuntu-latest
     steps:
@@ -15,3 +15,13 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC1qkMXH8d2I9DDAtBSeEHqg"
+  update-readme-with-youtubeplaylist:
+    name: Update this repo's README with the contents from my other sites.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=rkMhW_R47_c"          
+
