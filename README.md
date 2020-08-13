@@ -1,7 +1,15 @@
 ### Welcome to my github repository
 
-I mostly work with [:snake:](https://www.python.org/), but I am also experienced in Ruby, Go, Powershell and C#.
+I mostly work with [:snake:](https://www.python.org/), but I am also experienced in Ruby, Go, Powershell and C#. I work as a Full-Time DevOps engineer for a big company, and I try to better the environment on a daily basis, apart from this I like to learn new technologies and I am a competent problem solver.
 
+You can contact me on the following mediums.
+- [Linkedin]
+- [Twitter]
+
+I have three personal sites hosted on [pythonanywhere](https://www.pythonanywhere.com/)
+- [Portfolio](http://r3ap3rpy.pythonanywhere.com/)
+- [URL Shortener](http://shortenpy.pythonanywhere.com/)
+- [Github.io](https://r3ap3rpy.github.io/)
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
