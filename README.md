@@ -5,6 +5,7 @@ I mostly work with [:snake:](https://www.python.org/), but I am also experienced
 You can contact me on the following mediums.
 - [Linkedin](https://www.linkedin.com/in/r3ap3rpy)
 - [Twitter](https://twitter.com/r3ap3rpy)
+- [YouTube](https://www.youtube.com/channel/UC1qkMXH8d2I9DDAtBSeEHqg)
 
 I have three personal sites hosted on [pythonanywhere](https://www.pythonanywhere.com/)
 - [Portfolio](http://r3ap3rpy.pythonanywhere.com/)
