@@ -1,5 +1,8 @@
 ### Welcome to my github repository
 
+I mostly work with [:snake:](https://www.python.org/), but I am also experienced in Ruby, Go, Powershell and C#.
+
+
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
 - [Eve - NG - Adding IOS images](https://www.youtube.com/watch?v=J2_lIeXG7ho)
