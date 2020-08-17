@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Strongbox - Tutorial - Pypi](https://www.youtube.com/watch?v=nbyOenbVL40)
 - [Eve - NG - Adding IOS images](https://www.youtube.com/watch?v=J2_lIeXG7ho)
 - [Eve - NG - Initial Setup](https://www.youtube.com/watch?v=d9Ea-hy9Q7w)
 - [Centos - Cockpit Feature](https://www.youtube.com/watch?v=NkKeXaJ63zQ)
 - [Velociraptor - Running on Debian based distros as a Service](https://www.youtube.com/watch?v=E1XN3y_U41Q)
-- [Velociraptor - Hunting](https://www.youtube.com/watch?v=w2-8L4A48W0)
 <!-- YOUTUBE:END -->
 
