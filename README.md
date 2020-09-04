@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Rich - Custom](https://www.youtube.com/watch?v=kQoImVjQm3g)
 - [Python - Rich Record](https://www.youtube.com/watch?v=sAtgg4Tyt3Q)
 - [Python - Rich   Loops](https://www.youtube.com/watch?v=9d_-bKT4pcE)
 - [Python - Rich Intro](https://www.youtube.com/watch?v=mMZUHhBdaug)
 - [Ansible - Semaphore UI](https://www.youtube.com/watch?v=0iZur-4nkVE)
-- [Strongbox - Tutorial - Pypi](https://www.youtube.com/watch?v=nbyOenbVL40)
 <!-- YOUTUBE:END -->
 
