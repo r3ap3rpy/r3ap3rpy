@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Git - Ungit](https://www.youtube.com/watch?v=QGLvFD67zsU)
 - [Jenkins - lnstall on Centos 8](https://www.youtube.com/watch?v=uk4KJDnqgcw)
 - [Eve - NG - Adding Debian Client](https://www.youtube.com/watch?v=mRcHLZoqOyM)
 - [Python - Rich - Custom](https://www.youtube.com/watch?v=kQoImVjQm3g)
 - [Python - Rich Record](https://www.youtube.com/watch?v=sAtgg4Tyt3Q)
-- [Python - Rich   Loops](https://www.youtube.com/watch?v=9d_-bKT4pcE)
 <!-- YOUTUBE:END -->
 
