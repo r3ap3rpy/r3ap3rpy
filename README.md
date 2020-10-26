@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Paramiko - sudo prompt](https://www.youtube.com/watch?v=fVOFWehhc38)
 - [Python - Tornado - http client](https://www.youtube.com/watch?v=lVh5BSZLvY0)
 - [Python - Tornado - Introduction](https://www.youtube.com/watch?v=0nqjKqCAJI8)
 - [Datagerry](https://www.youtube.com/watch?v=51e4mluVvrs)
 - [Python - f strings, dict and tuple](https://www.youtube.com/watch?v=AsOK368xb3k)
-- [Git - Ungit](https://www.youtube.com/watch?v=QGLvFD67zsU)
 <!-- YOUTUBE:END -->
 
