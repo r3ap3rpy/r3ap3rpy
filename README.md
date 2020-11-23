@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Code - Server](https://www.youtube.com/watch?v=rFuhrE5NxLQ)
 - [Python - Fabric - Mass Copy](https://www.youtube.com/watch?v=wkRDqjLUkYo)
 - [Python - Flask - In memory file](https://www.youtube.com/watch?v=h8FS7EB8Fw8)
 - [Python - Paramiko - sudo prompt](https://www.youtube.com/watch?v=fVOFWehhc38)
 - [Python - Tornado - http client](https://www.youtube.com/watch?v=lVh5BSZLvY0)
-- [Python - Tornado - Introduction](https://www.youtube.com/watch?v=0nqjKqCAJI8)
 <!-- YOUTUBE:END -->
 
