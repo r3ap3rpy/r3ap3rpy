@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rudder - Adding linux agent](https://www.youtube.com/watch?v=7TKqUPGykg0)
 - [Rudder - Root server setup](https://www.youtube.com/watch?v=tWj2E6v04Go)
 - [Python - Flask - Current App](https://www.youtube.com/watch?v=NqRULrX_QYk)
 - [Python - Only One Instance](https://www.youtube.com/watch?v=H98hWrVRYFo)
 - [Python - Flask - Custom filter](https://www.youtube.com/watch?v=Q91qCFjS5aw)
-- [Code - Server](https://www.youtube.com/watch?v=rFuhrE5NxLQ)
 <!-- YOUTUBE:END -->
 
