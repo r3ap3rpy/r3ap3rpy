@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rudder - The API](https://www.youtube.com/watch?v=kiOXXUwZ0JM)
 - [Rudder - User management](https://www.youtube.com/watch?v=KSH_JFpufnc)
 - [Rudder - Relay Server](https://www.youtube.com/watch?v=2470JERuwTY)
 - [Rudder - Adding linux agent](https://www.youtube.com/watch?v=7TKqUPGykg0)
 - [Rudder - Root server setup](https://www.youtube.com/watch?v=tWj2E6v04Go)
-- [Python - Flask - Current App](https://www.youtube.com/watch?v=NqRULrX_QYk)
 <!-- YOUTUBE:END -->
 
