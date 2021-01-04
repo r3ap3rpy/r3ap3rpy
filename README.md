@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rudder - Techniques and Directives](https://www.youtube.com/watch?v=cleT8jJd3r8)
 - [Rudder - Performance tuning](https://www.youtube.com/watch?v=__3tZYw9j3E)
 - [Rudder - Custom Inventory](https://www.youtube.com/watch?v=3tS_xElJqPs)
 - [Rudder - The API](https://www.youtube.com/watch?v=kiOXXUwZ0JM)
 - [Rudder - User management](https://www.youtube.com/watch?v=KSH_JFpufnc)
-- [Rudder - Relay Server](https://www.youtube.com/watch?v=2470JERuwTY)
 <!-- YOUTUBE:END -->
 
