@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [TurboGears2 - Multiple pages in a single webapp](https://www.youtube.com/watch?v=VIYpz4CMCT0)
 - [TurboGears2 - Prepare and Hello World](https://www.youtube.com/watch?v=RYDxtY5yR0k)
 - [Rudder - Archive and Events](https://www.youtube.com/watch?v=M7bGGNbmse8)
 - [Rudder - Deploy Python 3.7.0](https://www.youtube.com/watch?v=wn3EMuF-2ro)
 - [Rudder - Techniques and Directives](https://www.youtube.com/watch?v=cleT8jJd3r8)
-- [Rudder - Performance tuning](https://www.youtube.com/watch?v=__3tZYw9j3E)
 <!-- YOUTUBE:END -->
 
