@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [TurboGears2 - Using ORM DB in your webapplication](https://www.youtube.com/watch?v=fYIN5As2aGQ)
 - [TurboGears2 - Configure folder for static files](https://www.youtube.com/watch?v=Vjtx3o4BFhs)
 - [TurboGears2 - Webhelpers and additional functionality](https://www.youtube.com/watch?v=VyPPGGtGCfo)
 - [TurboGears2 - Kajiki templating](https://www.youtube.com/watch?v=BzwjyFRPv2Q)
 - [TurboGears2 - Multiple pages in a single webapp](https://www.youtube.com/watch?v=VIYpz4CMCT0)
-- [TurboGears2 - Prepare and Hello World](https://www.youtube.com/watch?v=RYDxtY5yR0k)
 <!-- YOUTUBE:END -->
 
