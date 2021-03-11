@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Ansible - Manage Static Hosts](https://www.youtube.com/watch?v=qLL4TYUePQI)
 - [Flask - SQLAlchemy and PostGres](https://www.youtube.com/watch?v=TGxIjKEd_Gg)
 - [TurboGears2 - default function and its usecases](https://www.youtube.com/watch?v=TiIZmX42jUE)
 - [TurboGears2 - Getting started with devtools](https://www.youtube.com/watch?v=PtdyApyD4Fg)
 - [TurboGears2 - Using ORM DB in your webapplication](https://www.youtube.com/watch?v=fYIN5As2aGQ)
-- [TurboGears2 - Configure folder for static files](https://www.youtube.com/watch?v=Vjtx3o4BFhs)
 <!-- YOUTUBE:END -->
 
