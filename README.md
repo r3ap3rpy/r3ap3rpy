@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Callable Objects](https://www.youtube.com/watch?v=FMOTFGNtUMs)
 - [Python - Flask - Performance Profiling](https://www.youtube.com/watch?v=9ugv2tA7FCQ)
 - [Ansible - Manage Static Hosts Part 2](https://www.youtube.com/watch?v=4gw_OEsCjpE)
 - [Ansible - Manage Static Hosts](https://www.youtube.com/watch?v=qLL4TYUePQI)
 - [Flask - SQLAlchemy and PostGres](https://www.youtube.com/watch?v=TGxIjKEd_Gg)
-- [TurboGears2 - default function and its usecases](https://www.youtube.com/watch?v=TiIZmX42jUE)
 <!-- YOUTUBE:END -->
 
