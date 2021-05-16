@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - FastAPI Intro](https://www.youtube.com/watch?v=T078lyn_zXg)
 - [Python - Retention Time](https://www.youtube.com/watch?v=75jT9pHZ4YI)
 - [Python - Paramiko Public Key Auth](https://www.youtube.com/watch?v=zj_7gI__mj0)
 - [Python - Callable Objects](https://www.youtube.com/watch?v=FMOTFGNtUMs)
 - [Python - Flask - Performance Profiling](https://www.youtube.com/watch?v=9ugv2tA7FCQ)
-- [Ansible - Manage Static Hosts Part 2](https://www.youtube.com/watch?v=4gw_OEsCjpE)
 <!-- YOUTUBE:END -->
 
