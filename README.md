@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Ansible - Semaphore v2](https://www.youtube.com/watch?v=fBA32Zyz6O8)
 - [Python - FastAPI - Body Fields](https://www.youtube.com/watch?v=8km3zXqUr48)
 - [Python - FastAPI - Request Body](https://www.youtube.com/watch?v=p5T5FQslTAk)
 - [Python - FastAPI Query Parameters](https://www.youtube.com/watch?v=rAqAzpas7TE)
 - [Python - FastAPI Path Parameters](https://www.youtube.com/watch?v=ps9-C22-6nQ)
-- [Python - FastAPI Intro](https://www.youtube.com/watch?v=T078lyn_zXg)
 <!-- YOUTUBE:END -->
 
