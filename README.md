@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - FastAPI - API Doc Example](https://www.youtube.com/watch?v=K-KsfJzSkaY)
 - [Python - FastAPI - Form Data](https://www.youtube.com/watch?v=OQL4zMqGb2k)
 - [Python - FastAPI - Header & Cookie](https://www.youtube.com/watch?v=3A90XnCFIQQ)
 - [Python - FastAPI - Custom Status Code](https://www.youtube.com/watch?v=El-PntX7HTM)
 - [Python - Flask - Redis Cache](https://www.youtube.com/watch?v=bbHvpaY0PSE)
-- [Ansible - Semaphore v2](https://www.youtube.com/watch?v=fBA32Zyz6O8)
 <!-- YOUTUBE:END -->
 
