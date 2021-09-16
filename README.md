@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Executing compiled C code](https://www.youtube.com/watch?v=f9CkQURvL00)
 - [Python - Executing compiled GO code](https://www.youtube.com/watch?v=NU5V8A2lYYI)
 - [Python - Working with cTypes](https://www.youtube.com/watch?v=G3KKWvmWmZ4)
 - [Python - FastAPI - Response Model](https://www.youtube.com/watch?v=YGrOBwDgD0U)
 - [Python - FastAPI - API Doc Example](https://www.youtube.com/watch?v=K-KsfJzSkaY)
-- [Python - FastAPI - Form Data](https://www.youtube.com/watch?v=OQL4zMqGb2k)
 <!-- YOUTUBE:END -->
 
