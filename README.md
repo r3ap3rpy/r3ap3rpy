@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Snakeviz](https://www.youtube.com/watch?v=qhb7cehwChc)
 - [Impressive Area SCAM](https://www.youtube.com/watch?v=ffRs2NHnFYE)
 - [Python - Dataclasses](https://www.youtube.com/watch?v=GiqLiuJPgbo)
 - [Python - Singledispatch a.k.a  polymorphism](https://www.youtube.com/watch?v=bXiaybScLio)
 - [Python - Executing compiled C code](https://www.youtube.com/watch?v=f9CkQURvL00)
-- [Python - Executing compiled GO code](https://www.youtube.com/watch?v=NU5V8A2lYYI)
 <!-- YOUTUBE:END -->
 
