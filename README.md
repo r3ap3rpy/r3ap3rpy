@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Impressive Area SCAM - Ending](https://www.youtube.com/watch?v=Rl3lBEUlV3E)
 - [Újhuta - hiking trail](https://www.youtube.com/watch?v=C4HQXNBFg2g)
 - [BYOB - Initial Setup](https://www.youtube.com/watch?v=eYk9zWNH5ws)
 - [Python - Snakeviz](https://www.youtube.com/watch?v=qhb7cehwChc)
 - [Impressive Area SCAM](https://www.youtube.com/watch?v=ffRs2NHnFYE)
-- [Python - Dataclasses](https://www.youtube.com/watch?v=GiqLiuJPgbo)
 <!-- YOUTUBE:END -->
 
