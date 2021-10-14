@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Pytest - ini file](https://www.youtube.com/watch?v=PkbZKC2DGqE)
 - [BYOB - Inside the payload](https://www.youtube.com/watch?v=9WqHuYP-vBA)
 - [BYOB - Adding Windows Bots](https://www.youtube.com/watch?v=_Pl0YgjCw2c)
 - [BYOB - Adding Linux Bots](https://www.youtube.com/watch?v=Cxc6BUw_97A)
 - [Impressive Area SCAM - Ending](https://www.youtube.com/watch?v=Rl3lBEUlV3E)
-- [Újhuta - hiking trail](https://www.youtube.com/watch?v=C4HQXNBFg2g)
 <!-- YOUTUBE:END -->
 
