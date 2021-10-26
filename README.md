@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - e commerce - cartridge](https://www.youtube.com/watch?v=_fc4e9w_md8)
 - [Hosszúpályi - Újosztás - 2021 Fall](https://www.youtube.com/watch?v=iZvv6L0GDOU)
 - [VMWare - Windows 11 Install](https://www.youtube.com/watch?v=5z6hSOF6Ec8)
 - [Castle of Tátika and Sümeg](https://www.youtube.com/watch?v=F24fBaufff8)
 - [Pytest - ini file](https://www.youtube.com/watch?v=PkbZKC2DGqE)
-- [BYOB - Inside the payload](https://www.youtube.com/watch?v=9WqHuYP-vBA)
 <!-- YOUTUBE:END -->
 
