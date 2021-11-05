@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - gevent part 2](https://www.youtube.com/watch?v=6rkyHJouYAQ)
 - [Python - gevent - Intro](https://www.youtube.com/watch?v=ugYDOUyWFso)
 - [LXC - Installation](https://www.youtube.com/watch?v=2U7OZ5VfsL4)
 - [Python - e commerce - cartridge](https://www.youtube.com/watch?v=_fc4e9w_md8)
 - [Hosszúpályi - Újosztás - 2021 Fall](https://www.youtube.com/watch?v=iZvv6L0GDOU)
-- [VMWare - Windows 11 Install](https://www.youtube.com/watch?v=5z6hSOF6Ec8)
 <!-- YOUTUBE:END -->
 
