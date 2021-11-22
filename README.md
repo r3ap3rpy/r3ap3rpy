@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - gevent - webapplication](https://www.youtube.com/watch?v=8YCqcNN44Js)
 - [Újhuta - Zsidó rét](https://www.youtube.com/watch?v=hIxv0H1W3Go)
 - [Python - gevent - WSGI client, server](https://www.youtube.com/watch?v=tY-yUPqsqls)
 - [Python - gevent - UDP client, server](https://www.youtube.com/watch?v=XoL55XeNElA)
 - [Python - gevent - threadpool](https://www.youtube.com/watch?v=E7WOVlOQCoE)
-- [Python - gevent part 2](https://www.youtube.com/watch?v=6rkyHJouYAQ)
 <!-- YOUTUBE:END -->
 
