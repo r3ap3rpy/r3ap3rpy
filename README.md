@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Extending with collections module](https://www.youtube.com/watch?v=brUJJ_TFilM)
 - [Python - EAFP vs LBYL](https://www.youtube.com/watch?v=PS7OX_cBNvA)
 - [Lake Vekeri](https://www.youtube.com/watch?v=Syb0nU85Tg8)
 - [Python - gevent - Socket client,server](https://www.youtube.com/watch?v=4IY8xzt_Oxw)
 - [Python - gevent - webapplication](https://www.youtube.com/watch?v=8YCqcNN44Js)
-- [Újhuta - Zsidó rét](https://www.youtube.com/watch?v=hIxv0H1W3Go)
 <!-- YOUTUBE:END -->
 
