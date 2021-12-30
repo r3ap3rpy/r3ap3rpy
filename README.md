@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Masonite - Creating your own blog](https://www.youtube.com/watch?v=Rk1XGAZCqfc)
 - [Python - Masonite - Crafting Commands](https://www.youtube.com/watch?v=FJdzsfcymAM)
 - [Python - Masonite - Migrations](https://www.youtube.com/watch?v=lezB-lHeLOc)
 - [Python - Masonite - MySQL setup](https://www.youtube.com/watch?v=1fZkpLF5u34)
 - [Python - Masonite - Authentication](https://www.youtube.com/watch?v=Q2eS7_HB1Tg)
-- [Python - Masonite - Intro](https://www.youtube.com/watch?v=qjl_B6RhMjk)
 <!-- YOUTUBE:END -->
 
