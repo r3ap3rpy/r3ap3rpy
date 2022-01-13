@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Hug - Hug Http Service](https://www.youtube.com/watch?v=88yM8ZkwNhw)
 - [Python - Hug - Introduction](https://www.youtube.com/watch?v=Tk3yJts02O4)
 - [DJI Mavic Mini 2 - Castle Turniansky - 2021-12-30](https://www.youtube.com/watch?v=CQurlPcQDkE)
 - [Python - PyQRCode](https://www.youtube.com/watch?v=QCG5IXU7Q8k)
 - [Pytest - HTML Report](https://www.youtube.com/watch?v=eIdEbNbWc2A)
-- [DJI Mavic Mini 2 - Castle of Dzovik - 2021 12 29](https://www.youtube.com/watch?v=Ykeef4ByaaE)
 <!-- YOUTUBE:END -->
 
