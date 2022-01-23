@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
-- [DJI Mavic Mini 2 - Lake Turnianszky - 2021-12-31](https://www.youtube.com/watch?v=dhs-s2Mrp8Y)
+- [DJI Mavic Mini 2 - Lake Turnianszky](https://www.youtube.com/watch?v=dhs-s2Mrp8Y)
 - [Vaultwarden - A guide](https://www.youtube.com/watch?v=PYgIpzG_qv4)
 - [Python - Hug - CLI Interface](https://www.youtube.com/watch?v=-VvCRSNHmVY)
-- [DJI Mavic Mini 2 - Castle of Krasznahorka - 2021-12-30](https://www.youtube.com/watch?v=hP8y9Ogtbik)
+- [DJI Mavic Mini 2 - Castle of Krasznahorka](https://www.youtube.com/watch?v=hP8y9Ogtbik)
 - [Python - Hug - Hug Http Service](https://www.youtube.com/watch?v=88yM8ZkwNhw)
 <!-- YOUTUBE:END -->
 
