@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DJI Mavic Mini 2 -Monostorpályi](https://www.youtube.com/watch?v=ptfV3IQOJ9A)
 - [Gogs - self hosted git](https://www.youtube.com/watch?v=ueqSAoKt04Q)
 - [Nextcloud - Introduction](https://www.youtube.com/watch?v=QJKVTDCCK5k)
 - [DJI Mavic Mini 2 - Lake Turnianszky](https://www.youtube.com/watch?v=dhs-s2Mrp8Y)
 - [Vaultwarden - A guide](https://www.youtube.com/watch?v=PYgIpzG_qv4)
-- [Python - Hug - CLI Interface](https://www.youtube.com/watch?v=-VvCRSNHmVY)
 <!-- YOUTUBE:END -->
 
