@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Homer - Static Homepage](https://www.youtube.com/watch?v=MjsKJEc_at8)
 - [Python - inspect](https://www.youtube.com/watch?v=h4tlb9GzYRo)
 - [Python - atexit](https://www.youtube.com/watch?v=m3xCW8h_e_4)
 - [Spiderfoot - threat intelligence](https://www.youtube.com/watch?v=JmuXBEOIWag)
 - [DJI Mavic Mini 2 -Monostorpályi](https://www.youtube.com/watch?v=ptfV3IQOJ9A)
-- [Gogs - self hosted git](https://www.youtube.com/watch?v=ueqSAoKt04Q)
 <!-- YOUTUBE:END -->
 
