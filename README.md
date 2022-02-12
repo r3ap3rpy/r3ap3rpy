@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Typer intro](https://www.youtube.com/watch?v=FPJZrUjS8D4)
 - [Homer - Run with systemd](https://www.youtube.com/watch?v=v8bsM9Ie-IQ)
 - [Homer - Static Homepage](https://www.youtube.com/watch?v=MjsKJEc_at8)
 - [Python - inspect](https://www.youtube.com/watch?v=h4tlb9GzYRo)
 - [Python - atexit](https://www.youtube.com/watch?v=m3xCW8h_e_4)
-- [Spiderfoot - threat intelligence](https://www.youtube.com/watch?v=JmuXBEOIWag)
 <!-- YOUTUBE:END -->
 
