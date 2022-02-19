@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Typer - Prompt](https://www.youtube.com/watch?v=X9L6H871QDo)
 - [Python - Typer - Exiting](https://www.youtube.com/watch?v=DWdvbLNpWzs)
 - [Python - Typer - Colors and printing](https://www.youtube.com/watch?v=68VrB8Af71k)
 - [Python - Typer intro](https://www.youtube.com/watch?v=FPJZrUjS8D4)
 - [Homer - Run with systemd](https://www.youtube.com/watch?v=v8bsM9Ie-IQ)
-- [Homer - Static Homepage](https://www.youtube.com/watch?v=MjsKJEc_at8)
 <!-- YOUTUBE:END -->
 
