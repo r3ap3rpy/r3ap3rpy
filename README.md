@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Typer - CLI Parameter types](https://www.youtube.com/watch?v=MC2JIJX193U)
 - [Python - Typer - Commands](https://www.youtube.com/watch?v=hpOCMiFNws4)
 - [Python - Typer - Using Click](https://www.youtube.com/watch?v=MPthJs1GzPo)
 - [Python - Typer - CLI Options](https://www.youtube.com/watch?v=bGawNxvLMWw)
 - [Python - Typer - CLI Arguments](https://www.youtube.com/watch?v=u-xiGfS3OVo)
-- [Python - Typer - Prompt](https://www.youtube.com/watch?v=X9L6H871QDo)
 <!-- YOUTUBE:END -->
 
