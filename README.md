@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Typer - Multiple values](https://www.youtube.com/watch?v=tng0D_PlBCY)
 - [Python - Typer - Subcommands](https://www.youtube.com/watch?v=YSB0CPT4pos)
 - [DJI Mavic Mini 2 - Csobánka](https://www.youtube.com/watch?v=QDTwdpcewUM)
 - [Python - Typer - CLI Parameter types](https://www.youtube.com/watch?v=MC2JIJX193U)
 - [Python - Typer - Commands](https://www.youtube.com/watch?v=hpOCMiFNws4)
-- [Python - Typer - Using Click](https://www.youtube.com/watch?v=MPthJs1GzPo)
 <!-- YOUTUBE:END -->
 
