@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Typer - Testing](https://www.youtube.com/watch?v=thqfLfmCjVI)
 - [Python - Typer - Launching applications](https://www.youtube.com/watch?v=V5OKAFiAW0c)
 - [Python - Typer - CLI app dir](https://www.youtube.com/watch?v=y4B6gMsneNA)
 - [Python - Typer - CLI Progress bar](https://www.youtube.com/watch?v=yJvchu56Fws)
 - [Python - Typer - Multiple values](https://www.youtube.com/watch?v=tng0D_PlBCY)
-- [Python - Typer - Subcommands](https://www.youtube.com/watch?v=YSB0CPT4pos)
 <!-- YOUTUBE:END -->
 
