@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - requests_cache](https://www.youtube.com/watch?v=UbxxemlG2o0)
 - [Python - privy](https://www.youtube.com/watch?v=ObzDBT6RMj8)
 - [DJI Mavic Mini 2 - Csákberény](https://www.youtube.com/watch?v=p4tb-liPaIE)
 - [Python -Typer - CLI completion](https://www.youtube.com/watch?v=RD4c_bfSqH8)
 - [Python - Typer - Building a package](https://www.youtube.com/watch?v=HQcHUCux3_Y)
-- [Python - Typer - Testing](https://www.youtube.com/watch?v=thqfLfmCjVI)
 <!-- YOUTUBE:END -->
 
