@@ -14,7 +14,7 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
-- [dDJI Mavic Mini 2 - Normafa](https://www.youtube.com/watch?v=YtiFZPQ-WUI)
+- [DJI Mavic Mini 2 - Normafa](https://www.youtube.com/watch?v=YtiFZPQ-WUI)
 - [Python - requests_cache](https://www.youtube.com/watch?v=UbxxemlG2o0)
 - [Python - privy](https://www.youtube.com/watch?v=ObzDBT6RMj8)
 - [DJI Mavic Mini 2 - Csákberény](https://www.youtube.com/watch?v=p4tb-liPaIE)
