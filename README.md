@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python  - Strawberry - FastAPI](https://www.youtube.com/watch?v=WtoApBSgOIo)
 - [Python - Strawberry - Mutations](https://www.youtube.com/watch?v=PYU31Y3rDa8)
 - [Python - Strawberry intro](https://www.youtube.com/watch?v=kpirl8IYIEM)
 - [Python - Pelican syntax highlight](https://www.youtube.com/watch?v=jD6-y0Dlit4)
 - [Python - Pelican invoke](https://www.youtube.com/watch?v=ray2VSgsMVw)
-- [Python - Pelican intro](https://www.youtube.com/watch?v=fp3EjRHltcc)
 <!-- YOUTUBE:END -->
 
