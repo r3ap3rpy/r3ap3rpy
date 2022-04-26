@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - MonkeyType](https://www.youtube.com/watch?v=9SFn6YnhSDU)
 - [Meilisearch](https://www.youtube.com/watch?v=SCm4c-6hAoU)
 - [DJI Mavic Mini 2 - Erzsébet lookout](https://www.youtube.com/watch?v=vsbT2abvoy4)
 - [DJI Mavic Mini 2 - Alsóörs](https://www.youtube.com/watch?v=xXd54kTVsFI)
 - [Python  - Strawberry - FastAPI](https://www.youtube.com/watch?v=WtoApBSgOIo)
-- [Python - Strawberry - Mutations](https://www.youtube.com/watch?v=PYU31Y3rDa8)
 <!-- YOUTUBE:END -->
 
