@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Pyramid - Views](https://www.youtube.com/watch?v=sZRZk5596Cg)
 - [Python - Pyramid - Request and response](https://www.youtube.com/watch?v=kXHm5HARJZE)
 - [Python - Pyramid - Intro](https://www.youtube.com/watch?v=qgkn4dUMf-I)
 - [Python - MonkeyType](https://www.youtube.com/watch?v=9SFn6YnhSDU)
 - [Meilisearch](https://www.youtube.com/watch?v=SCm4c-6hAoU)
-- [DJI Mavic Mini 2 - Erzsébet lookout](https://www.youtube.com/watch?v=vsbT2abvoy4)
 <!-- YOUTUBE:END -->
 
