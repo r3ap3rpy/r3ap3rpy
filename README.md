@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Pyramid - Templating chameleon.](https://www.youtube.com/watch?v=_4J-NCp_Dmk)
 - [Python - Pyramid - Routes](https://www.youtube.com/watch?v=UtPyJEd4fcM)
 - [Python - Pyramid - Views](https://www.youtube.com/watch?v=sZRZk5596Cg)
 - [Python - Pyramid - Request and response](https://www.youtube.com/watch?v=kXHm5HARJZE)
 - [Python - Pyramid - Intro](https://www.youtube.com/watch?v=qgkn4dUMf-I)
-- [Python - MonkeyType](https://www.youtube.com/watch?v=9SFn6YnhSDU)
 <!-- YOUTUBE:END -->
 
