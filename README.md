@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - PyDriller](https://www.youtube.com/watch?v=wInz_MrZ3XM)
 - [Python - Pyramid - CookieCutter](https://www.youtube.com/watch?v=MwpdLB-Agjg)
 - [Python - Pyramid - View Classes](https://www.youtube.com/watch?v=NkryAppNJDU)
 - [Python - Pyramid - Return JSON](https://www.youtube.com/watch?v=zSQIH6BT7TI)
 - [Python - Pyramid - Static Assets](https://www.youtube.com/watch?v=G0m8OGGSgwM)
-- [Pyramid - Templating - Jinja2](https://www.youtube.com/watch?v=kNu7SnLVuyQ)
 <!-- YOUTUBE:END -->
 
