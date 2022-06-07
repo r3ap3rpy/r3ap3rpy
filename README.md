@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Nornir - Environment Setup](https://www.youtube.com/watch?v=6PwZqgUGrDk)
 - [Python - Pyinfra - Files and users](https://www.youtube.com/watch?v=zIziO5Vxo98)
 - [Python - PyInfra - Intro](https://www.youtube.com/watch?v=k8FlQgbHnC0)
 - [Python - PyDriller](https://www.youtube.com/watch?v=wInz_MrZ3XM)
 - [Python - Pyramid - CookieCutter](https://www.youtube.com/watch?v=MwpdLB-Agjg)
-- [Python - Pyramid - View Classes](https://www.youtube.com/watch?v=NkryAppNJDU)
 <!-- YOUTUBE:END -->
 
