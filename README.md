@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Nornir - Commands part 2 of 2](https://www.youtube.com/watch?v=ovpILvu9zN8)
 - [Nornir - Commands Part 1 of 2](https://www.youtube.com/watch?v=HseU4KIMvzs)
 - [Nornir - Project Initialization](https://www.youtube.com/watch?v=x0JvPJy_acg)
 - [Nornir - Installation](https://www.youtube.com/watch?v=PYxUD2f2hsY)
 - [Nornir - Environment Setup](https://www.youtube.com/watch?v=6PwZqgUGrDk)
-- [Python - Pyinfra - Files and users](https://www.youtube.com/watch?v=zIziO5Vxo98)
 <!-- YOUTUBE:END -->
 
