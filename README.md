@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DJI Mavic Mini 2 - Rétság](https://www.youtube.com/watch?v=kt5Z7E9R5nM)
 - [Nornir - Playing with network devices](https://www.youtube.com/watch?v=gAXnv7_jGjs)
 - [Nornir - Installing Pip on remote machines](https://www.youtube.com/watch?v=1fGAxoOw4m4)
 - [Nornir - Commands part 2 of 2](https://www.youtube.com/watch?v=ovpILvu9zN8)
 - [Nornir - Commands Part 1 of 2](https://www.youtube.com/watch?v=HseU4KIMvzs)
-- [Nornir - Project Initialization](https://www.youtube.com/watch?v=x0JvPJy_acg)
 <!-- YOUTUBE:END -->
 
