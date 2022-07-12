@@ -15,9 +15,9 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
 - [Nornir - Shutting down unused interfaces](https://www.youtube.com/watch?v=iI9l5kjjeGE)
-- [Nornir - Shutdown unused interfaces](https://www.youtube.com/watch?v=GpSe7NPFGQ4)
 - [DJI Mavic Mini 2  - Ördögrét](https://www.youtube.com/watch?v=UGMlRwHhIAQ)
 - [Nornir - Preparing network devices](https://www.youtube.com/watch?v=kMRwa2Pg-0E)
 - [DJI Mavic Mini 2 - Rétság](https://www.youtube.com/watch?v=kt5Z7E9R5nM)
+- [Nornir - Playing with network devices](https://www.youtube.com/watch?v=gAXnv7_jGjs)
 <!-- YOUTUBE:END -->
 
