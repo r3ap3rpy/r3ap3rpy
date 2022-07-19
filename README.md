@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DJI Mavic Mini 2 - Esseg Castle](https://www.youtube.com/watch?v=fqZNNnwM9r4)
 - [DJI Mavic Mini 2 - Alsóörs a June evening](https://www.youtube.com/watch?v=v-97mdNy0-Q)
 - [Nornir - Shutting down unused interfaces](https://www.youtube.com/watch?v=iI9l5kjjeGE)
 - [DJI Mavic Mini 2  - Ördögrét](https://www.youtube.com/watch?v=UGMlRwHhIAQ)
 - [Nornir - Preparing network devices](https://www.youtube.com/watch?v=kMRwa2Pg-0E)
-- [DJI Mavic Mini 2 - Rétság](https://www.youtube.com/watch?v=kt5Z7E9R5nM)
 <!-- YOUTUBE:END -->
 
