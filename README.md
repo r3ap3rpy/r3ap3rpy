@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Pytube](https://www.youtube.com/watch?v=jy1K84cjFww)
 - [DJI Mavic Mini 2 - Solar panel field](https://www.youtube.com/watch?v=E_O_xzbVZds)
 - [CFEngine - Add Windows agent](https://www.youtube.com/watch?v=1PVEP0sPrwQ)
 - [CFEngine - Introduction](https://www.youtube.com/watch?v=_2QPJLOA4rc)
 - [DJI Mavic Mini 2  - Katalinpuszta](https://www.youtube.com/watch?v=IWkmwOpQaF8)
-- [DJI Mavic Mini 2 - Esseg Castle](https://www.youtube.com/watch?v=fqZNNnwM9r4)
 <!-- YOUTUBE:END -->
 
