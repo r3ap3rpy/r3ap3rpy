@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - PySide6 Dialog Application](https://www.youtube.com/watch?v=eY__Gh9j5yw)
 - [Python - PySide6 Using Buttons](https://www.youtube.com/watch?v=3WV4LEdkol4)
 - [Python - PySide6 - Signals and slots](https://www.youtube.com/watch?v=54HqeEa5eo0)
 - [Python - PySide6 Introduction](https://www.youtube.com/watch?v=VjbMLk8d1lI)
 - [DJI Mavic Mini 2 - Old Mill Hotel](https://www.youtube.com/watch?v=6eyfatW4QtU)
-- [DJI Mavic Mini 2 - Majer Antal outpost](https://www.youtube.com/watch?v=vVoPopszxj4)
 <!-- YOUTUBE:END -->
 
