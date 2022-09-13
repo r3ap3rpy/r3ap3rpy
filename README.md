@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Gzip](https://www.youtube.com/watch?v=UfKkaVE6cU4)
 - [Python - PySide6 - Display with Table widget](https://www.youtube.com/watch?v=Abrzn9oLQKA)
 - [Python  - PySide6 - Diplay with Tree Widget](https://www.youtube.com/watch?v=GEJ0c2i3vJ0)
 - [DJI Mavic Mini 2 - Lonely Mountain, Castle of Somló](https://www.youtube.com/watch?v=lOorn1EzfAY)
 - [Python - PySide6 Dialog Application](https://www.youtube.com/watch?v=eY__Gh9j5yw)
-- [Python - PySide6 Using Buttons](https://www.youtube.com/watch?v=3WV4LEdkol4)
 <!-- YOUTUBE:END -->
 
