@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python -  FastAPI Easyauth Client](https://www.youtube.com/watch?v=teemluQTm54)
 - [Python - FastAPI - Easyauth Server](https://www.youtube.com/watch?v=-SAlZEOEoxk)
 - [Teleport - Introduction](https://www.youtube.com/watch?v=F5ai4c2iujQ)
 - [Python - Working with pdf files](https://www.youtube.com/watch?v=RnwIzIQsxC0)
 - [Python - Gzip](https://www.youtube.com/watch?v=UfKkaVE6cU4)
-- [Python - PySide6 - Display with Table widget](https://www.youtube.com/watch?v=Abrzn9oLQKA)
 <!-- YOUTUBE:END -->
 
