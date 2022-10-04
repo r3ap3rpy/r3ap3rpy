@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DJI Mavic Mini 2 - Alsóörs outpost to lake](https://www.youtube.com/watch?v=RPrJW4atElc)
 - [Meshcentral - Introduction](https://www.youtube.com/watch?v=GhPS51IVTOY)
 - [Python -  FastAPI Easyauth Client](https://www.youtube.com/watch?v=teemluQTm54)
 - [Python - FastAPI - Easyauth Server](https://www.youtube.com/watch?v=-SAlZEOEoxk)
 - [Teleport - Introduction](https://www.youtube.com/watch?v=F5ai4c2iujQ)
-- [Python - Working with pdf files](https://www.youtube.com/watch?v=RnwIzIQsxC0)
 <!-- YOUTUBE:END -->
 
