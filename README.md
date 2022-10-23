@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [GoPro Hero 8 - Sunrise](https://www.youtube.com/watch?v=NpjUX9Q-I2w)
 - [Python - Flet - User input](https://www.youtube.com/watch?v=E22pQGOIIlI)
 - [Python - Flet introduction](https://www.youtube.com/watch?v=pFDAGphQ8vc)
 - [GoPro Hero 8 - Serpentine from Rétság](https://www.youtube.com/watch?v=4Oan25zchJw)
 - [GoPro Hero 8  - Afternoon ride in Budapest](https://www.youtube.com/watch?v=_gDB3T80Zws)
-- [Python - Flask - RestX ToDo API](https://www.youtube.com/watch?v=XihJYixfUSc)
 <!-- YOUTUBE:END -->
 
