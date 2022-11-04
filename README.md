@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [GoPro Hero 8 - Last journey of the season in Alsóörs](https://www.youtube.com/watch?v=_O3_lX3B4EI)
 - [Python - Flet - Navigation](https://www.youtube.com/watch?v=gGnsgfN_1vE)
 - [GoPro Hero 8 - Serpentine towards Rétság](https://www.youtube.com/watch?v=ur5nKXuLEm8)
 - [Python - Flet - Drag and drop](https://www.youtube.com/watch?v=e5iI8adu-K0)
 - [GoPro Hero 8 - Looking for mushrooms](https://www.youtube.com/watch?v=Cb1_T4HQfzg)
-- [Python - Flet - Large lists](https://www.youtube.com/watch?v=isog54v_53U)
 <!-- YOUTUBE:END -->
 
