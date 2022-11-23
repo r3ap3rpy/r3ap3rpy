@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DJI Mavic Mini 2  - Pilisszentkereszt](https://www.youtube.com/watch?v=GDM_udGAClo)
 - [Python - Rocketry - Intro](https://www.youtube.com/watch?v=b24x_ZcCaoA)
 - [Grafana - Streaming metrics with Telegraf](https://www.youtube.com/watch?v=cO_oLOjZXgo)
 - [Python - Flet - Accessibility](https://www.youtube.com/watch?v=mdGGSvD-Wvk)
 - [GoPro Hero 8 - Dog walking](https://www.youtube.com/watch?v=N4Jms9S7DxE)
-- [Python - Flet - PubSub](https://www.youtube.com/watch?v=d3j3s4iwjTg)
 <!-- YOUTUBE:END -->
 
