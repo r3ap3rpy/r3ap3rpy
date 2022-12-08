@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - APScheduler -  Intro](https://www.youtube.com/watch?v=G2xSqfLanV0)
 - [Python - Grip, markdown to pdf](https://www.youtube.com/watch?v=fS1YsLuess4)
 - [DJI Mavic Mini 2 - Epelény](https://www.youtube.com/watch?v=YwHves6gIyc)
 - [GoPro Hero  8 - Afternoon ride in Budapest](https://www.youtube.com/watch?v=Z_qEFCK9esA)
 - [Python - Rocketry - Advanced](https://www.youtube.com/watch?v=rPfuJAiCqBs)
-- [Python - Rocketry - Logging](https://www.youtube.com/watch?v=i49B4OZGE4w)
 <!-- YOUTUBE:END -->
 
