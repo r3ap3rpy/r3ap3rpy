@@ -14,7 +14,7 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
-- [December 13, 2022](https://www.youtube.com/watch?v=ZH62HZ5kNjw)
+- [Pyhon - APScheduler - Redis jobstore](https://www.youtube.com/watch?v=ZH62HZ5kNjw)
 - [DJI Mavic Mini 2 - Mátrafüred, small lake](https://www.youtube.com/watch?v=9p8-xGclkuU)
 - [Python - APScheduler -  Intro](https://www.youtube.com/watch?v=G2xSqfLanV0)
 - [Python - Grip, markdown to pdf](https://www.youtube.com/watch?v=fS1YsLuess4)
