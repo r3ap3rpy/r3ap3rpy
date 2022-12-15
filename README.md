@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - APScheduler - SQLAlchemy jobstore](https://www.youtube.com/watch?v=Q9YOF9gq9jo)
 - [Python - APScheduler - MongoDB jobstore](https://www.youtube.com/watch?v=lxtMV2wXtok)
 - [Pyhon - APScheduler - Redis jobstore](https://www.youtube.com/watch?v=ZH62HZ5kNjw)
 - [DJI Mavic Mini 2 - Mátrafüred, small lake](https://www.youtube.com/watch?v=9p8-xGclkuU)
 - [Python - APScheduler -  Intro](https://www.youtube.com/watch?v=G2xSqfLanV0)
-- [Python - Grip, markdown to pdf](https://www.youtube.com/watch?v=fS1YsLuess4)
 <!-- YOUTUBE:END -->
 
