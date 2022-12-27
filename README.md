@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - PyScript](https://www.youtube.com/watch?v=RQjGUV1qz8E)
 - [Python - Log2D tutorial](https://www.youtube.com/watch?v=1d_OpetxCSY)
 - [Python - LoGuru](https://www.youtube.com/watch?v=fHmLxwtqbQQ)
 - [Python - APScheduler - SQLAlchemy jobstore](https://www.youtube.com/watch?v=Q9YOF9gq9jo)
 - [Python - APScheduler - MongoDB jobstore](https://www.youtube.com/watch?v=lxtMV2wXtok)
-- [Pyhon - APScheduler - Redis jobstore](https://www.youtube.com/watch?v=ZH62HZ5kNjw)
 <!-- YOUTUBE:END -->
 
