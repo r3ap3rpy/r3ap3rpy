@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Redbird - Repositories SQL](https://www.youtube.com/watch?v=KGkeZJnNzFk)
 - [Python - Redbird - Repositories JSON](https://www.youtube.com/watch?v=MShdj-N0DKM)
 - [Python - RedBird - Repositpries CSV](https://www.youtube.com/watch?v=PRcXfg-ut8E)
 - [Python - Redbird - Repositories in Memory](https://www.youtube.com/watch?v=hZUCZOGCYBQ)
 - [Pytthon - Redbird - Introduction](https://www.youtube.com/watch?v=xtVkBioTD7Y)
-- [GoPro Hero 8 - Another afternoon ride in Budapest](https://www.youtube.com/watch?v=kEfIcBgDwZI)
 <!-- YOUTUBE:END -->
 
