@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Redbird - CLI CRUD app](https://www.youtube.com/watch?v=FTTOYRUnrH0)
 - [Python - Redbird - FastAPI CRUD application](https://www.youtube.com/watch?v=FL8MRX5E7II)
 - [Python - Redbird - Logging](https://www.youtube.com/watch?v=UMMEFGAxFXA)
 - [Python - Redbird - Operators](https://www.youtube.com/watch?v=_0rScLV4j4k)
 - [Python - Redbird - Repositories MongoDB](https://www.youtube.com/watch?v=omfvyKi-tBQ)
-- [Python - Redbird - Repositories SQL](https://www.youtube.com/watch?v=KGkeZJnNzFk)
 <!-- YOUTUBE:END -->
 
