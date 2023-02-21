@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Celery - Groups, Chains and Chords](https://www.youtube.com/watch?v=FAkxzuQLMB0)
 - [Python - Celery - In your applications](https://www.youtube.com/watch?v=AHW0Josiu14)
 - [Python - Celery - Backend](https://www.youtube.com/watch?v=Eb3y6Neb9zI)
 - [Python - Celery - Introduction](https://www.youtube.com/watch?v=oCxNOXzjj2g)
 - [Python - Airflow - Introduction](https://www.youtube.com/watch?v=lY6VJ4uNwFI)
-- [Python - Redbird - CLI CRUD app](https://www.youtube.com/watch?v=FTTOYRUnrH0)
 <!-- YOUTUBE:END -->
 
