@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [TeeTTY](https://www.youtube.com/watch?v=V0kAaJ8vMI4)
 - [Python - PyWinAuto tutorial](https://www.youtube.com/watch?v=29yKuQYejOQ)
 - [Python - Jupyterlite](https://www.youtube.com/watch?v=taHjtjRxIt8)
 - [Python - Py2Exe](https://www.youtube.com/watch?v=rFKBnh1W-v0)
 - [DJI Mavic Mini 2 - Lake Cseke](https://www.youtube.com/watch?v=N8yO8Vo3CFg)
-- [Python - Celery - Groups, Chains and Chords](https://www.youtube.com/watch?v=FAkxzuQLMB0)
 <!-- YOUTUBE:END -->
 
