@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - NoteSH](https://www.youtube.com/watch?v=uHYhpOfRUT8)
 - [GoPro Hero 8 - Pug School](https://www.youtube.com/watch?v=_wAbWhQNzDw)
 - [Python - Plone 6 - Setup on Fedora 37 Machine](https://www.youtube.com/watch?v=cD70VRKGlU0)
 - [TeeTTY](https://www.youtube.com/watch?v=V0kAaJ8vMI4)
 - [Python - PyWinAuto tutorial](https://www.youtube.com/watch?v=29yKuQYejOQ)
-- [Python - Jupyterlite](https://www.youtube.com/watch?v=taHjtjRxIt8)
 <!-- YOUTUBE:END -->
 
