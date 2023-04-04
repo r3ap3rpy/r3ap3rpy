@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Minikube - Getting started on Fedora 37](https://www.youtube.com/watch?v=z1dcAQSH6D0)
 - [Python - Rustpython](https://www.youtube.com/watch?v=VPubaEVNpuU)
 - [DJI Mavic Mini 2 - Percsény](https://www.youtube.com/watch?v=IaqWdFJu-Pw)
 - [Python - NoteSH](https://www.youtube.com/watch?v=uHYhpOfRUT8)
 - [GoPro Hero 8 - Pug School](https://www.youtube.com/watch?v=_wAbWhQNzDw)
-- [Python - Plone 6 - Setup on Fedora 37 Machine](https://www.youtube.com/watch?v=cD70VRKGlU0)
 <!-- YOUTUBE:END -->
 
