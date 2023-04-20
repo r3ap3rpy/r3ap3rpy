@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Django - Multiapp Project](https://www.youtube.com/watch?v=F3fpEUvwmu0)
 - [GoPro Hero 8 - Afternoon ride in Budapest 2.7k](https://www.youtube.com/watch?v=NuaWEzCniis)
 - [Minikube - Deploy Python App and Redis](https://www.youtube.com/watch?v=dGWf7ckgd8o)
 - [Minikube - Deploy Grafana](https://www.youtube.com/watch?v=OHjW7DmEoZY)
 - [Minikube - Deploy and use Redis](https://www.youtube.com/watch?v=APU5_mA9dTc)
-- [Minikube - Getting started on Fedora 37](https://www.youtube.com/watch?v=z1dcAQSH6D0)
 <!-- YOUTUBE:END -->
 
