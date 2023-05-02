@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Django - Model Forms](https://www.youtube.com/watch?v=BKi2Ag4SanE)
 - [Python - Django - Image upload app](https://www.youtube.com/watch?v=vhz3OdiMaKY)
 - [Python - Django - Request arguments](https://www.youtube.com/watch?v=bPZBaZCzFHs)
 - [Python - Django - Multiapp Project](https://www.youtube.com/watch?v=F3fpEUvwmu0)
 - [GoPro Hero 8 - Afternoon ride in Budapest 2.7k](https://www.youtube.com/watch?v=NuaWEzCniis)
-- [Minikube - Deploy Python App and Redis](https://www.youtube.com/watch?v=dGWf7ckgd8o)
 <!-- YOUTUBE:END -->
 
