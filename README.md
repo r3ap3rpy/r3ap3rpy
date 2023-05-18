@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [GoPro Hero 8 - Hiking near Pilisszentlászló](https://www.youtube.com/watch?v=Y9YWFm92EGE)
 - [Python - Django - Sending emails](https://www.youtube.com/watch?v=3lbJhea4Stw)
 - [Python - Django - Static files](https://www.youtube.com/watch?v=dCrjq8KEj4U)
 - [Python - Django - Signals](https://www.youtube.com/watch?v=kyBJ5tmzAzk)
 - [Python - Django - Search Bar](https://www.youtube.com/watch?v=SiAG4l2h-wI)
-- [Python - Django - Model Forms](https://www.youtube.com/watch?v=BKi2Ag4SanE)
 <!-- YOUTUBE:END -->
 
