@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Beartype](https://www.youtube.com/watch?v=U4yztBFGBI4)
 - [Python - pynput](https://www.youtube.com/watch?v=_cH3YaVdqvc)
 - [Python - Wagtail](https://www.youtube.com/watch?v=D1OJfLGYECk)
 - [GoPro Hero 8 - Hiking near Pilisszentlászló](https://www.youtube.com/watch?v=Y9YWFm92EGE)
 - [Python - Django - Sending emails](https://www.youtube.com/watch?v=3lbJhea4Stw)
-- [Python - Django - Static files](https://www.youtube.com/watch?v=dCrjq8KEj4U)
 <!-- YOUTUBE:END -->
 
