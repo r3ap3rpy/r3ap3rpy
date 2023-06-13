@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Jupyter Lab Desktop](https://www.youtube.com/watch?v=1hefMk6iMww)
 - [GoPro Hero 8 - Pug Meetup, Budapest Városliget](https://www.youtube.com/watch?v=FCyg-6y52CI)
 - [Python - Frogmouth](https://www.youtube.com/watch?v=UXkFymYSNnA)
 - [Python - Memray](https://www.youtube.com/watch?v=PR1L9sszeZE)
 - [Python - Beartype](https://www.youtube.com/watch?v=U4yztBFGBI4)
-- [Python - pynput](https://www.youtube.com/watch?v=_cH3YaVdqvc)
 <!-- YOUTUBE:END -->
 
