@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - NiceGUI - Mermaid, image, video, html, tables](https://www.youtube.com/watch?v=8iejc1u3UKM)
 - [Python - NiceGUI - Slider, input, textarea, markdown](https://www.youtube.com/watch?v=vEvKHyezKPU)
 - [Python - NiceGUI Introduction](https://www.youtube.com/watch?v=jGgdec_d0PI)
 - [Python - Jupyter Lab Desktop](https://www.youtube.com/watch?v=1hefMk6iMww)
 - [GoPro Hero 8 - Pug Meetup, Budapest Városliget](https://www.youtube.com/watch?v=FCyg-6y52CI)
-- [Python - Frogmouth](https://www.youtube.com/watch?v=UXkFymYSNnA)
 <!-- YOUTUBE:END -->
 
