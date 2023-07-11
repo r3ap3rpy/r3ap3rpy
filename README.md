@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Argparse - Action class](https://www.youtube.com/watch?v=10rlZ_js7kg)
 - [Python - Ruff linter](https://www.youtube.com/watch?v=q0Hlu7DwnHQ)
 - [Python - NiceGUI - Sessions, JS, static and packaging](https://www.youtube.com/watch?v=aVg3POQD9lQ)
 - [Python - NiceGUI - Timer, Pages and redirect](https://www.youtube.com/watch?v=b0d8JwH-xws)
 - [Python - NiceGUI - Tabs, Menu, Dialog and Quasar](https://www.youtube.com/watch?v=wqyg8bBkX9U)
-- [Python - NiceGUI - Mermaid, image, video, html, tables](https://www.youtube.com/watch?v=8iejc1u3UKM)
 <!-- YOUTUBE:END -->
 
