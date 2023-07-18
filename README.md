@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Locust and locustfile](https://www.youtube.com/watch?v=wXTyUdl0ik8)
 - [Python - Locust - Introduction](https://www.youtube.com/watch?v=MY85F6HrBG8)
 - [Python - Argparse - Action class](https://www.youtube.com/watch?v=10rlZ_js7kg)
 - [Python - Ruff linter](https://www.youtube.com/watch?v=q0Hlu7DwnHQ)
 - [Python - NiceGUI - Sessions, JS, static and packaging](https://www.youtube.com/watch?v=aVg3POQD9lQ)
-- [Python - NiceGUI - Timer, Pages and redirect](https://www.youtube.com/watch?v=b0d8JwH-xws)
 <!-- YOUTUBE:END -->
 
