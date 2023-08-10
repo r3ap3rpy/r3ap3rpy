@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - GNS3 VM - Netmiko enable and config mode](https://www.youtube.com/watch?v=K62xsgY5Flc)
 - [Python - GNS3 VM - Netmiko and IOS](https://www.youtube.com/watch?v=YIV0RVWTcwU)
 - [GoPro Hero 8 - Thursday ride - Yamaha FZS600](https://www.youtube.com/watch?v=LemgDlxOE-A)
 - [Python - JustPy - Introduction](https://www.youtube.com/watch?v=vKKSdwMGB60)
 - [Python - Locust - Distributed configuration](https://www.youtube.com/watch?v=W_KQBTb7dNI)
-- [Python - Locust and locustfile](https://www.youtube.com/watch?v=wXTyUdl0ik8)
 <!-- YOUTUBE:END -->
 
