@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - JustPy - Input element](https://www.youtube.com/watch?v=CqBqsoET8SY)
 - [Python - JustPy - Event handlers](https://www.youtube.com/watch?v=mCR4ZCE-kqw)
 - [Python - JustPy - Routing](https://www.youtube.com/watch?v=oBcpUtkIktU)
 - [Python - JustPy - HTML Components](https://www.youtube.com/watch?v=zzfQMKdLWh0)
 - [GoPro Hero 8 - Rakamaz to Újhuta - Yamaha FZS600](https://www.youtube.com/watch?v=FRbeLEltkw0)
-- [GoPro Hero 8 - Hiking near Alsópetény with panoramic view](https://www.youtube.com/watch?v=PN3RUYvB36E)
 <!-- YOUTUBE:END -->
 
