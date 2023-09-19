@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - JustPy - Drag and Drop](https://www.youtube.com/watch?v=A7sZAWrEqOM)
 - [Python - JustPy - The Request object](https://www.youtube.com/watch?v=2tfekh0oDig)
 - [Python - JustPy - Pushing data to webpages](https://www.youtube.com/watch?v=U2R_ECd1v2E)
 - [Python - JustPy - Input element](https://www.youtube.com/watch?v=CqBqsoET8SY)
 - [Python - JustPy - Event handlers](https://www.youtube.com/watch?v=mCR4ZCE-kqw)
-- [Python - JustPy - Routing](https://www.youtube.com/watch?v=oBcpUtkIktU)
 <!-- YOUTUBE:END -->
 
