@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - JustPy - Upload and Download](https://www.youtube.com/watch?v=OTkHSu_tgf4)
 - [Python - JustPy - Scalable Vector Graphics](https://www.youtube.com/watch?v=Dv20Upmo1zU)
 - [Python - JustPy - Ajax](https://www.youtube.com/watch?v=5967tOX7HEM)
 - [Python - JustPy - Static files](https://www.youtube.com/watch?v=huFqWBWSRq0)
 - [Python - JustPy - Drag and Drop](https://www.youtube.com/watch?v=A7sZAWrEqOM)
-- [Python - JustPy - The Request object](https://www.youtube.com/watch?v=2tfekh0oDig)
 <!-- YOUTUBE:END -->
 
