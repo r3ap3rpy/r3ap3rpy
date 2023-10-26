@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Class based decorator](https://www.youtube.com/watch?v=FSgIH3nDGj8)
 - [Python - MKDocs - Static site generator](https://www.youtube.com/watch?v=rvkGWcqbh2c)
 - [Python - Grex - Regular expression builder](https://www.youtube.com/watch?v=e8RgfgpR2mM)
 - [Windows Server - WAC](https://www.youtube.com/watch?v=iajZ5W3mQRg)
 - [Python - JustPy - Matplotlib and Markdown](https://www.youtube.com/watch?v=UOm157DsAEQ)
-- [Python - JustPy - Upload and Download](https://www.youtube.com/watch?v=OTkHSu_tgf4)
 <!-- YOUTUBE:END -->
 
