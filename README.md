@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Litestar - Responses and File Download](https://www.youtube.com/watch?v=1nZ7vl9jFaA)
 - [GoPro Hero 8 - Myräfalle](https://www.youtube.com/watch?v=h38eFTGNq04)
 - [Python - Litestar - Path Parameters Part 3](https://www.youtube.com/watch?v=sg0HpEUSqLE)
 - [Python - Litestar - Path Parameters Part 2](https://www.youtube.com/watch?v=6CwmZL2odNA)
 - [Python - Litestar - Path Parameters Part 1](https://www.youtube.com/watch?v=deeOVldFxxU)
-- [Python - Litestar - Introduction](https://www.youtube.com/watch?v=MCWwII_REY8)
 <!-- YOUTUBE:END -->
 
