@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Litestar - Routing part 1](https://www.youtube.com/watch?v=9SVMOO7GAJc)
 - [GoPro Hero 8 - Paris](https://www.youtube.com/watch?v=9WeqExuLvUI)
 - [Python - Litestar - Websockets Advanced](https://www.youtube.com/watch?v=GXgzRt7ZFVU)
 - [Python - Litestar - Schema and file upload](https://www.youtube.com/watch?v=HINPJWrJOyI)
 - [Python - Litestar - Logging](https://www.youtube.com/watch?v=xlcJQL5R9tk)
-- [Python - Litestar - Streaming and templates](https://www.youtube.com/watch?v=jVjS-EkW6eo)
 <!-- YOUTUBE:END -->
 
