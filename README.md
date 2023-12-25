@@ -15,7 +15,7 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
 - [Python - Kanban](https://www.youtube.com/watch?v=bxSH0B-g7sA)
-- [Python   FileQuery](https://www.youtube.com/watch?v=QjYNhXpk6vo)
+- [Python - FileQuery](https://www.youtube.com/watch?v=QjYNhXpk6vo)
 - [GoPro Hero 8 - Wednesday ride - Hajógyári sziget](https://www.youtube.com/watch?v=n3lA41b8NmM)
 - [Python - Litestar - Routing part 3](https://www.youtube.com/watch?v=WD4WY9KNTfs)
 - [Python - Litestar - Routing part  2](https://www.youtube.com/watch?v=xsrZFCVsNJw)
