@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Nserver](https://www.youtube.com/watch?v=QQnhGdqd4R4)
 - [Python - String Interpolation](https://www.youtube.com/watch?v=m1IhpDTwNsE)
 - [Python - PYTHONSTARTUP](https://www.youtube.com/watch?v=GeuZL2Yjb6c)
 - [Gitness - Setup on CentOS 8](https://www.youtube.com/watch?v=EFGVjRYxlfk)
 - [Python - Kanban](https://www.youtube.com/watch?v=bxSH0B-g7sA)
-- [Python - FileQuery](https://www.youtube.com/watch?v=QjYNhXpk6vo)
 <!-- YOUTUBE:END -->
 
