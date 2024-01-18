@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python   Wooey   Web interface for your scripts 1](https://www.youtube.com/watch?v=IV2x1eNp8rg)
 - [Python - Automatically decorate functions](https://www.youtube.com/watch?v=RXK7kwAxiwo)
 - [GoPro Hero 8 - Walk after rain](https://www.youtube.com/watch?v=RAvIBDW-yjQ)
 - [Python - Flama - Introduction](https://www.youtube.com/watch?v=s4fihVGXUhM)
 - [Python - Nserver](https://www.youtube.com/watch?v=QQnhGdqd4R4)
-- [Python - String Interpolation](https://www.youtube.com/watch?v=m1IhpDTwNsE)
 <!-- YOUTUBE:END -->
 
