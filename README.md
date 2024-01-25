@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Wooey - Execute ansible plays through python](https://www.youtube.com/watch?v=8iInGLti_Mc)
 - [Python - Wooey - Setup Django and Celery as a service](https://www.youtube.com/watch?v=Ql2V8ZvehvY)
 - [Python - Wooey - Web interface for your scripts](https://www.youtube.com/watch?v=IV2x1eNp8rg)
 - [Python - Automatically decorate functions](https://www.youtube.com/watch?v=RXK7kwAxiwo)
 - [GoPro Hero 8 - Walk after rain](https://www.youtube.com/watch?v=RAvIBDW-yjQ)
-- [Python - Flama - Introduction](https://www.youtube.com/watch?v=s4fihVGXUhM)
 <!-- YOUTUBE:END -->
 
