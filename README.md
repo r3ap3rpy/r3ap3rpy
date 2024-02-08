@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Granian](https://www.youtube.com/watch?v=BWAM1_TCI3k)
 - [Python - Attrs](https://www.youtube.com/watch?v=S8St303Epf0)
 - [Python - Wooey - Executing PowerShell scritps](https://www.youtube.com/watch?v=_s1S62PffFI)
 - [Python - Wooey - Ansible plays against windows machines](https://www.youtube.com/watch?v=p2eni211ggY)
 - [Python - Wooey - Execute ansible plays through python](https://www.youtube.com/watch?v=8iInGLti_Mc)
-- [Python - Wooey - Setup Django and Celery as a service](https://www.youtube.com/watch?v=Ql2V8ZvehvY)
 <!-- YOUTUBE:END -->
 
