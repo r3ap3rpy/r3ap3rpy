@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Bandit - Security scan your python code](https://www.youtube.com/watch?v=dGkmAolcpxE)
 - [Python - Stamina](https://www.youtube.com/watch?v=bbnBdRoD98I)
 - [Python - Beanie - Manipulation](https://www.youtube.com/watch?v=qIfrZK3bAsw)
 - [GoPro Hero 8 - London](https://www.youtube.com/watch?v=iQCMbZy6vQY)
 - [Python - Beanie - Documents](https://www.youtube.com/watch?v=vxSwM0_hm8c)
-- [Python - Beanie - Introduction](https://www.youtube.com/watch?v=JVfA17t3HbI)
 <!-- YOUTUBE:END -->
 
