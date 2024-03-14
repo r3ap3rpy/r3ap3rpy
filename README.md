@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - BlackSheep - Path Parameters](https://www.youtube.com/watch?v=OvJDwB3QgR8)
 - [Python - BlackSheep - Introduction](https://www.youtube.com/watch?v=aRJi4zu0aMc)
 - [Python - Package Versioning](https://www.youtube.com/watch?v=rBFXFQ1Uw6Q)
 - [Python - Bandit - Security scan your python code](https://www.youtube.com/watch?v=dGkmAolcpxE)
 - [Python - Stamina](https://www.youtube.com/watch?v=bbnBdRoD98I)
-- [Python - Beanie - Manipulation](https://www.youtube.com/watch?v=qIfrZK3bAsw)
 <!-- YOUTUBE:END -->
 
