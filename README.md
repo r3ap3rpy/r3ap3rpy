@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - BlackSheep - Redis Lifespan](https://www.youtube.com/watch?v=LmL_j2uPkKQ)
 - [Python - BlackSheep - Exception Handling](https://www.youtube.com/watch?v=mdT7BShrfYc)
 - [Python - BlackSheep - OpenAPI Integration](https://www.youtube.com/watch?v=wpgST6DCKSw)
 - [Hiking - Lencsehegy kör](https://www.youtube.com/watch?v=6jFZaspP3qE)
 - [Python - BlackSheep - MVC Project](https://www.youtube.com/watch?v=SIEv8MoWjAU)
-- [Python - BlackSheep - Response Object](https://www.youtube.com/watch?v=L6em-VnXVtY)
 <!-- YOUTUBE:END -->
 
