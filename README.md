@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Hiking - Erzsébet akna](https://www.youtube.com/watch?v=EKbZcxiHjv8)
 - [DJI Osmo Action 4 - Slicing through traffic Jam in Budapes #Shorts #yamaha #fzs600 #afternoon](https://www.youtube.com/watch?v=E6h8wQaPdOk)
 - [#Shorts  DJI Air 3 - Flying around](https://www.youtube.com/watch?v=CN2-bvFkHCE)
 - [Python - BlackSheep - Websockets](https://www.youtube.com/watch?v=NW4KMaPWP9g)
 - [Python - BlackSheep - Templating](https://www.youtube.com/watch?v=rzxFeK5XCXw)
-- [Hiking - Tanbánya kör](https://www.youtube.com/watch?v=v0rh8WXFs0w)
 <!-- YOUTUBE:END -->
 
