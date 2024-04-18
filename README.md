@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - BlackSheep - HTTP Client](https://www.youtube.com/watch?v=aKR3pJlCfIc)
 - [Python - BlackSheep - Background tasks](https://www.youtube.com/watch?v=u4FVi1WsqmQ)
 - [#shorts Valencia - Vacation](https://www.youtube.com/watch?v=nWPRuXkcb8Y)
 - [Hiking - Erzsébet akna](https://www.youtube.com/watch?v=EKbZcxiHjv8)
 - [DJI Osmo Action 4 - Slicing through traffic Jam in Budapes #Shorts #yamaha #fzs600 #afternoon](https://www.youtube.com/watch?v=E6h8wQaPdOk)
-- [#Shorts  DJI Air 3 - Flying around](https://www.youtube.com/watch?v=CN2-bvFkHCE)
 <!-- YOUTUBE:END -->
 
