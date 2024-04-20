@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [#Shorts - Valencia #holiday #workshop #dji #oa4 #osmoaction4 #ocenarium #hemispheric #market #violin](https://www.youtube.com/watch?v=f7R5W0NkyiE)
 - [Hiking - Borókási táró kör](https://www.youtube.com/watch?v=PAwqXCflyrA)
 - [Python - BlackSheep - HTTP Client](https://www.youtube.com/watch?v=aKR3pJlCfIc)
 - [Python - BlackSheep - Background tasks](https://www.youtube.com/watch?v=u4FVi1WsqmQ)
 - [#shorts Valencia - Vacation](https://www.youtube.com/watch?v=nWPRuXkcb8Y)
-- [Hiking - Erzsébet akna](https://www.youtube.com/watch?v=EKbZcxiHjv8)
 <!-- YOUTUBE:END -->
 
