@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DJI Air 3 - Maiden flight](https://www.youtube.com/watch?v=85gt5x0Vk-E)
 - [Python - Esmerald WebFramework](https://www.youtube.com/watch?v=nkhegDQ_pzo)
 - [Python - BlackSheep - Adding HTTPS](https://www.youtube.com/watch?v=9irwY5coev0)
 - [#Shorts - Valencia #holiday #workshop #dji #oa4 #osmoaction4 #ocenarium #hemispheric #market #violin](https://www.youtube.com/watch?v=f7R5W0NkyiE)
 - [Hiking - Borókási táró kör](https://www.youtube.com/watch?v=PAwqXCflyrA)
-- [Python - BlackSheep - HTTP Client](https://www.youtube.com/watch?v=aKR3pJlCfIc)
 <!-- YOUTUBE:END -->
 
