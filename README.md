@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Passbolt - Setup on CentOS 8](https://www.youtube.com/watch?v=dT1HXLEP3ek)
 - [DJI Air 3 - Above Balaton](https://www.youtube.com/watch?v=bj4P9dqTFvc)
 - [DJI Air 3 - Alsóörs](https://www.youtube.com/watch?v=QQXl09Q5fBM)
 - [DJI Osmo Action 4 - Friday ride after rain](https://www.youtube.com/watch?v=7KkYM3QyhrU)
 - [DJI Air 3 - Maiden flight](https://www.youtube.com/watch?v=85gt5x0Vk-E)
-- [Python - Esmerald WebFramework](https://www.youtube.com/watch?v=nkhegDQ_pzo)
 <!-- YOUTUBE:END -->
 
