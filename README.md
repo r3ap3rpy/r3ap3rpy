@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [#Shorts #DJI #Air 3 - Dawn at Siófok](https://www.youtube.com/watch?v=J7NT3C31zhE)
 - [#Shorts #DJI #Air #3 - Late afternoon flight in Alsóörs](https://www.youtube.com/watch?v=LqNkUH60IL4)
 - [DJI Air 3 - Gödöllő arborétum](https://www.youtube.com/watch?v=dMF2P_hYxGM)
 - [Passbolt - Ansible integration](https://www.youtube.com/watch?v=Ty0ZbZr8qQg)
 - [Passbolt - Setup on CentOS 8](https://www.youtube.com/watch?v=dT1HXLEP3ek)
-- [DJI Air 3 - Above Balaton](https://www.youtube.com/watch?v=bj4P9dqTFvc)
 <!-- YOUTUBE:END -->
 
