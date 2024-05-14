@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Gitlab - Installing Runners on Linux and Windows](https://www.youtube.com/watch?v=-BPqufFmFG4)
 - [Hiking - Reimann altáró](https://www.youtube.com/watch?v=np1klyTfxQ8)
 - [Python - PySnooper a k a  print debugger](https://www.youtube.com/watch?v=d0OkxaVwjhs)
 - [Python - Icecream a k a  debug without print](https://www.youtube.com/watch?v=zN0VsKYyNK8)
 - [Gitlab - Installation on CentOS 8](https://www.youtube.com/watch?v=AP2SyM0s8gM)
-- [#Shorts #DJI #Air 3 - Dawn at Siófok](https://www.youtube.com/watch?v=J7NT3C31zhE)
 <!-- YOUTUBE:END -->
 
