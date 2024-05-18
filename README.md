@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DJI Air 3 - XVIII Forest](https://www.youtube.com/watch?v=taAGfz3GjA0)
 - [Python - Latexify](https://www.youtube.com/watch?v=X-zeyGf--vQ)
 - [Gitlab - Installing Runners on Linux and Windows](https://www.youtube.com/watch?v=-BPqufFmFG4)
 - [Hiking - Reimann altáró](https://www.youtube.com/watch?v=np1klyTfxQ8)
 - [Python - PySnooper a k a  print debugger](https://www.youtube.com/watch?v=d0OkxaVwjhs)
-- [Python - Icecream a k a  debug without print](https://www.youtube.com/watch?v=zN0VsKYyNK8)
 <!-- YOUTUBE:END -->
 
