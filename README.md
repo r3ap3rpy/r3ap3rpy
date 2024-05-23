@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - WOL - Part 1](https://www.youtube.com/watch?v=JFosmjTJMRU)
 - [Python - Makrell](https://www.youtube.com/watch?v=wpZnGajUTbk)
 - [DJI Air 3 - XVIII Forest](https://www.youtube.com/watch?v=taAGfz3GjA0)
 - [Python - Latexify](https://www.youtube.com/watch?v=X-zeyGf--vQ)
 - [Gitlab - Installing Runners on Linux and Windows](https://www.youtube.com/watch?v=-BPqufFmFG4)
-- [Hiking - Reimann altáró](https://www.youtube.com/watch?v=np1klyTfxQ8)
 <!-- YOUTUBE:END -->
 
