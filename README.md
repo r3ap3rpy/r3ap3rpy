@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [VLOG - Marseille 2024](https://www.youtube.com/watch?v=79d7Rh8i0_s)
 - [DevOps - Warpgate](https://www.youtube.com/watch?v=xHgwbRnlxCY)
 - [Python - WOL - Part 2](https://www.youtube.com/watch?v=nGpzuksFXT4)
 - [Python - WOL - Part 1](https://www.youtube.com/watch?v=JFosmjTJMRU)
 - [Python - Makrell](https://www.youtube.com/watch?v=wpZnGajUTbk)
-- [DJI Air 3 - XVIII Forest](https://www.youtube.com/watch?v=taAGfz3GjA0)
 <!-- YOUTUBE:END -->
 
