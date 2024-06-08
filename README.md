@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [VLOG - Valencia](https://www.youtube.com/watch?v=vBsKDV56UUM)
 - [#Shorts #DJI Osmo Action 4  - Just riding - #3](https://www.youtube.com/watch?v=6thTroOEypU)
 - [Python - PySnooper a k a  print debugger](https://www.youtube.com/watch?v=d0OkxaVwjhs)
 - [#Shorts #DJI Osmo Action 4 - Just riding - #2](https://www.youtube.com/watch?v=sp7bJR0qVo4)
 - [Python - Icecream a k a  debug without print](https://www.youtube.com/watch?v=zN0VsKYyNK8)
-- [#Shorts #DJI Osmo Action 4 - Just riding - #1](https://www.youtube.com/watch?v=rlvDwSVJU6k)
 <!-- YOUTUBE:END -->
 
