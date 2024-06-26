@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Validating](https://www.youtube.com/watch?v=sBZA6ctN_4E)
 - [#Shorts #DJI Air 3 - Flying around Alsóörs #2](https://www.youtube.com/watch?v=1axl4D5wVkw)
 - [Python - APIDict](https://www.youtube.com/watch?v=D0J_PUhEIdk)
 - [Python - FileDict](https://www.youtube.com/watch?v=_nkSc72CaiI)
 - [#Shorts #DJI Air 3 - Flying around Alsóörs #1](https://www.youtube.com/watch?v=dDCmC9qMI8c)
-- [Python - SQLDict](https://www.youtube.com/watch?v=PbhZs6VLQ3k)
 <!-- YOUTUBE:END -->
 
