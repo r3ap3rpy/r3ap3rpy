@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Validating](https://www.youtube.com/watch?v=sBZA6ctN_4E)
 - [Python - Weakref](https://www.youtube.com/watch?v=dRw3FdQTxqs)
 - [Python - ClockWork](https://www.youtube.com/watch?v=FL06hQDisnc)
 - [Python - ChainMap](https://www.youtube.com/watch?v=3uuXRAf-NOE)
 - [Python - RandomStuff](https://www.youtube.com/watch?v=9V7EnSCh4-w)
-- [Python - Memoryview](https://www.youtube.com/watch?v=GMrt2jFKYjQ)
 <!-- YOUTUBE:END -->
 
