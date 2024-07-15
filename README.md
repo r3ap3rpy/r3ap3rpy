@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [#Shorts #DJI Air 3 - Flying at Hosszúpályi &lpar;3 of 3&rpar;](https://www.youtube.com/watch?v=McoaRSALB9E)
 - [#Shorts #DJI Air 3 - Flying at Hosszúpályi &lpar;2 of 3&rpar;](https://www.youtube.com/watch?v=0o2Ol8TzXyA)
 - [Python - Validating](https://www.youtube.com/watch?v=sBZA6ctN_4E)
 - [Python - Weakref](https://www.youtube.com/watch?v=dRw3FdQTxqs)
 - [Python - ClockWork](https://www.youtube.com/watch?v=FL06hQDisnc)
-- [Python - ChainMap](https://www.youtube.com/watch?v=3uuXRAf-NOE)
 <!-- YOUTUBE:END -->
 
