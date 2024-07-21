@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
-- [#Shorts #DJI Air 3 - XVIII  District](https://www.youtube.com/watch?v=4lvf1v-tLGc)
-- [Python - Wordy](https://www.youtube.com/watch?v=GPAJ_1sartQ)
-- [Python - GraphQL - Part - 1](https://www.youtube.com/watch?v=_wwNkwhpB9c)
-- [Python - Posting TUI](https://www.youtube.com/watch?v=lZuboErpMmQ)
-- [#Shorts #DJI Air 3 - Flying at Hosszúpályi &lpar;3 of 3&rpar;](https://www.youtube.com/watch?v=McoaRSALB9E)
+- [#Shorts #DJI Air 3 - Mali Portić #1](https://www.youtube.com/watch?v=Imxrvg2IMdQ)
+- [#Shorts #DJI Air 3 - Punta Medulin](https://www.youtube.com/watch?v=oqE-LBs_iLU)
+- [#Shorts #DJI Air 3 - Medulin #5](https://www.youtube.com/watch?v=YFibiEtt52s)
+- [#Shorts #DJI Air 3 - Medulin #4](https://www.youtube.com/watch?v=_zCld7bga5Y)
+- [#Shorts #DJI Air 3 - Medulin #3](https://www.youtube.com/watch?v=CFvBlSXrN64)
 <!-- YOUTUBE:END -->
 
