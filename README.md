@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Memoryview](https://www.youtube.com/watch?v=GMrt2jFKYjQ)
 - [#Shorts #DJI Air 3 - Mali Portić #2](https://www.youtube.com/watch?v=b1d8TLmbStI)
 - [DJI Air 3 - Weekend in Croatia](https://www.youtube.com/watch?v=i_2cWUhdWtY)
 - [#Shorts #DJI Air 3 - Mali Portić #1](https://www.youtube.com/watch?v=Imxrvg2IMdQ)
 - [#Shorts #DJI Air 3 - Punta Medulin](https://www.youtube.com/watch?v=oqE-LBs_iLU)
-- [#Shorts #DJI Air 3 - Medulin #5](https://www.youtube.com/watch?v=YFibiEtt52s)
 <!-- YOUTUBE:END -->
 
