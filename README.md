@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [#Shorts #PyGoodies #2 - Dict comprehensions](https://www.youtube.com/watch?v=FUEIew85gLU)
 - [#Shorts #DJI Action 4 - Medulin #1](https://www.youtube.com/watch?v=KdyJI8Y2ygY)
 - [#Shorts #DJI Action 4 - Just ridin #9](https://www.youtube.com/watch?v=rzjUL6gQCpo)
 - [#Shorts #DJI Air 3 - Medulin #2](https://www.youtube.com/watch?v=lSFYF41SHyE)
 - [Python - RandomStuff](https://www.youtube.com/watch?v=9V7EnSCh4-w)
-- [#Shorts #PyGoodies #1 - List comprehension](https://www.youtube.com/watch?v=jbBU-VhWZB8)
 <!-- YOUTUBE:END -->
 
