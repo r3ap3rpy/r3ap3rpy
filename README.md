@@ -17,7 +17,7 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 - [#Shorts #PyGoodies #3 - Set comprehensions](https://www.youtube.com/watch?v=jSNKV2eiQdA)
 - [#Shorts #DJI Air 3 - Flying at Hosszúpályi &lpar;2 of 2&rpar;](https://www.youtube.com/watch?v=w16iD4huaOE)
 - [#Shorts #DJI Air 3 - Flying at Hosszúpályi &lpar;1 of 2&rpar;](https://www.youtube.com/watch?v=JINd4N9g26g)
+- [PureCode AI - Introduction](https://www.youtube.com/watch?v=f2ojY8-OuY0)
 - [#Shorts #DJI Action 4 - Medulin #2](https://www.youtube.com/watch?v=PjB6cNCy9FU)
-- [#Shorts #DJI Action 4 - Just ridin #10](https://www.youtube.com/watch?v=pBFpZDGjnOw)
 <!-- YOUTUBE:END -->
 
