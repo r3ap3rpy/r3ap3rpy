@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
-- [#Shorts #PyGoodies #5 - import this](https://www.youtube.com/watch?v=Zt2pPB7P25Q)
-- [#Shorts #DJI Action 4 - Medulin #4](https://www.youtube.com/watch?v=Ys_W9k5BICk)
-- [#Shorts #DJI Air 3 - Medulin #5](https://www.youtube.com/watch?v=YFibiEtt52s)
-- [Python - Weakref](https://www.youtube.com/watch?v=dRw3FdQTxqs)
-- [Javonet - Introduction](https://www.youtube.com/watch?v=OF_sdp2-LYk)
+- [HashiCorp - Vault - Auto unseal with AWS KMS](https://www.youtube.com/watch?v=Htf3fjARv7w)
+- [HashiCorp - Vault - AWS Secret Engine](https://www.youtube.com/watch?v=C20ydQFLpk4)
+- [HashiCorp - Vault - MySQL backend](https://www.youtube.com/watch?v=3XZyIh5mTdY)
+- [HashiCorp - Vault - Transit Secret Engine](https://www.youtube.com/watch?v=AvnQ9WJ5jrc)
+- [HashiCorp - Vault - TOTP Secret Engine](https://www.youtube.com/watch?v=D4qsNOpppr4)
 <!-- YOUTUBE:END -->
 
