@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Posting TUI](https://www.youtube.com/watch?v=lZuboErpMmQ)
 - [HashiCorp - Vault - Auto unseal with AWS KMS](https://www.youtube.com/watch?v=Htf3fjARv7w)
 - [HashiCorp - Vault - AWS Secret Engine](https://www.youtube.com/watch?v=C20ydQFLpk4)
 - [HashiCorp - Vault - MySQL backend](https://www.youtube.com/watch?v=3XZyIh5mTdY)
 - [HashiCorp - Vault - Transit Secret Engine](https://www.youtube.com/watch?v=AvnQ9WJ5jrc)
-- [HashiCorp - Vault - TOTP Secret Engine](https://www.youtube.com/watch?v=D4qsNOpppr4)
 <!-- YOUTUBE:END -->
 
