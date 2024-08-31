@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [#Shorts #DJI Action 4 - Medulin #5](https://www.youtube.com/watch?v=ddZIGnuUaSc)
 - [#Shorts #DJI Air 3 - Punta Medulin](https://www.youtube.com/watch?v=oqE-LBs_iLU)
 - [Python - rq dashboard fast](https://www.youtube.com/watch?v=1c4CuxY7Sdo)
 - [Python - Posting TUI](https://www.youtube.com/watch?v=lZuboErpMmQ)
 - [HashiCorp - Vault - Auto unseal with AWS KMS](https://www.youtube.com/watch?v=Htf3fjARv7w)
-- [HashiCorp - Vault - AWS Secret Engine](https://www.youtube.com/watch?v=C20ydQFLpk4)
 <!-- YOUTUBE:END -->
 
