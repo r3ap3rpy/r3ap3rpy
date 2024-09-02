@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [GetHomepage - Your personal landing site](https://www.youtube.com/watch?v=BhJxIPhA6wQ)
 - [HashiCorp - Vault - RabbitMQ Secrets Engine](https://www.youtube.com/watch?v=PdF6g2JTcKI)
 - [#Shorts #DJI Action 4 - Medulin #5](https://www.youtube.com/watch?v=ddZIGnuUaSc)
 - [#Shorts #DJI Air 3 - Punta Medulin](https://www.youtube.com/watch?v=oqE-LBs_iLU)
 - [Python - rq dashboard fast](https://www.youtube.com/watch?v=1c4CuxY7Sdo)
-- [Python - Posting TUI](https://www.youtube.com/watch?v=lZuboErpMmQ)
 <!-- YOUTUBE:END -->
 
