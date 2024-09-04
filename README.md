@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - GraphQL - Part - 1](https://www.youtube.com/watch?v=_wwNkwhpB9c)
 - [HashiCorp - Vault - Audit and Logs](https://www.youtube.com/watch?v=ByVzFd9uzRI)
 - [#Shorts #PyGoodies #6 - Love is Love](https://www.youtube.com/watch?v=MnnATaixy3E)
 - [GetHomepage - Your personal landing site](https://www.youtube.com/watch?v=BhJxIPhA6wQ)
 - [HashiCorp - Vault - RabbitMQ Secrets Engine](https://www.youtube.com/watch?v=PdF6g2JTcKI)
-- [#Shorts #DJI Action 4 - Medulin #5](https://www.youtube.com/watch?v=ddZIGnuUaSc)
 <!-- YOUTUBE:END -->
 
