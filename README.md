@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DJI Action 4 - Tihany](https://www.youtube.com/watch?v=3lKiFpZ9pQI)
 - [DJI Air - 3 - Weekend at Alsóörs](https://www.youtube.com/watch?v=wMXNHhCCSFw)
 - [#Shorts #DJI Air 3 - Mali Portić #1](https://www.youtube.com/watch?v=Imxrvg2IMdQ)
 - [Python - GraphQL - Part - 1](https://www.youtube.com/watch?v=_wwNkwhpB9c)
 - [HashiCorp - Vault - Audit and Logs](https://www.youtube.com/watch?v=ByVzFd9uzRI)
-- [#Shorts #PyGoodies #6 - Love is Love](https://www.youtube.com/watch?v=MnnATaixy3E)
 <!-- YOUTUBE:END -->
 
