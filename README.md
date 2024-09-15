@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Zakopane - Car ride](https://www.youtube.com/watch?v=DYXS0Ww0uKc)
 - [VLOG - Zakopane](https://www.youtube.com/watch?v=i8IG0fHSU4E)
 - [#Shorts #DJI Air 3 - Mali Portić #2](https://www.youtube.com/watch?v=b1d8TLmbStI)
 - [OpenFaas - Dockerfile - command as a funcition](https://www.youtube.com/watch?v=sKr5YHjeGcQ)
 - [OpenFaas - Introduction](https://www.youtube.com/watch?v=Z4w83qldTLU)
-- [DJI Air 3 - Weekend in Croatia](https://www.youtube.com/watch?v=i_2cWUhdWtY)
 <!-- YOUTUBE:END -->
 
