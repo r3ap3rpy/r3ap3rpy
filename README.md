@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [#Shorts #DJI Air 3 - Flying at Hosszúpályi &lpar;1 of 2&rpar;](https://www.youtube.com/watch?v=JINd4N9g26g)
 - [OpenFaas - Node streaming service](https://www.youtube.com/watch?v=D7fs-E4yibs)
 - [OpenFaas - Bash streaming service](https://www.youtube.com/watch?v=iYPIALvuiNc)
 - [Python - K3S introduction](https://www.youtube.com/watch?v=VphS5G4Lpt4)
 - [VLOG - Croatia - Weekend Medulin](https://www.youtube.com/watch?v=MTwfprdWSww)
-- [#Shorts #PyGoodies #8 - braces](https://www.youtube.com/watch?v=AkeI1cJfMVI)
 <!-- YOUTUBE:END -->
 
