@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Bruno - API client](https://www.youtube.com/watch?v=fTqEFitli3E)
 - [Raspberry Pi 4 - Zero cluster monitoring with Kuma uptime](https://www.youtube.com/watch?v=rLICX4YCKic)
 - [Raspberry Pi 4 - Pi Zero Cluster Network setup](https://www.youtube.com/watch?v=AW30xn4beRM)
 - [DJI Air 3 - Lake Vekeri flyaround](https://www.youtube.com/watch?v=9YHxhnnWI-o)
 - [DJI Air 3 - Lake Vekeri](https://www.youtube.com/watch?v=agu8b4rzmPg)
-- [Raspberry PI 4 - Cluster with 4 Raspberry Pi Zero](https://www.youtube.com/watch?v=ulttLf1_7vw)
 <!-- YOUTUBE:END -->
 
