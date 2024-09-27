@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Raspberry PI - Swarmpit](https://www.youtube.com/watch?v=l_yOkhEmwyc)
 - [Raspberry Pi 4 - Monitor storage with Kuma](https://www.youtube.com/watch?v=tsIyQnBcWfE)
 - [Raspberry PI - Nexterm access](https://www.youtube.com/watch?v=XX2MyPOcEGY)
 - [Raspberry PI - Scaling governor](https://www.youtube.com/watch?v=cthD9WBjqdQ)
 - [Raspberry PI 5 - Argon NEO 5 M 2 NVME based NAS](https://www.youtube.com/watch?v=Ui2SKArowts)
-- [#Shorts #DJI Air 3 - Flying at Hosszúpályi &lpar;2 of 2&rpar;](https://www.youtube.com/watch?v=w16iD4huaOE)
 <!-- YOUTUBE:END -->
 
