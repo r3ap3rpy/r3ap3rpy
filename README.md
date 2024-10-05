@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Raspberry Pi 4 - Pi Zero Cluster Network setup](https://www.youtube.com/watch?v=AW30xn4beRM)
 - [DJI Action 4 - Tihany](https://www.youtube.com/watch?v=3lKiFpZ9pQI)
 - [HashiCorp - Vault - Getting started](https://www.youtube.com/watch?v=OwnkE9Cz7fQ)
 - [Raspberry PI 4 - Cluster with 4 Raspberry Pi Zero](https://www.youtube.com/watch?v=ulttLf1_7vw)
 - [Raspberry PI - Swarmpit](https://www.youtube.com/watch?v=l_yOkhEmwyc)
-- [Raspberry Pi 4 - Monitor storage with Kuma](https://www.youtube.com/watch?v=tsIyQnBcWfE)
 <!-- YOUTUBE:END -->
 
