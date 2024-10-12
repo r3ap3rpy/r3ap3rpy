@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Raspberry PI 5 - Argon NEO 5 M 2 NVME based NAS](https://www.youtube.com/watch?v=Ui2SKArowts)
 - [VLOG - Zakopane](https://www.youtube.com/watch?v=i8IG0fHSU4E)
 - [HashiCorp - Vault - TOTP Secret Engine](https://www.youtube.com/watch?v=D4qsNOpppr4)
 - [Raspberry Pi 4 - Pi Zero Cluster Network setup](https://www.youtube.com/watch?v=AW30xn4beRM)
 - [DJI Action 4 - Tihany](https://www.youtube.com/watch?v=3lKiFpZ9pQI)
-- [HashiCorp - Vault - Getting started](https://www.youtube.com/watch?v=OwnkE9Cz7fQ)
 <!-- YOUTUBE:END -->
 
