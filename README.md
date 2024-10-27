@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DJI Osmo Action 4 - Autum ride](https://www.youtube.com/watch?v=AOmmSv_J5ms)
 - [Raspberry PI - Scaling governor](https://www.youtube.com/watch?v=cthD9WBjqdQ)
 - [DJI Air 3 - Lake Vekeri](https://www.youtube.com/watch?v=agu8b4rzmPg)
 - [HashiCorp - Vault - MySQL backend](https://www.youtube.com/watch?v=3XZyIh5mTdY)
 - [Python - Pyinstrument THE profiler](https://www.youtube.com/watch?v=xLwBFjGFRw0)
-- [Raspberry Pi 4 - Zero cluster monitoring with Kuma uptime](https://www.youtube.com/watch?v=rLICX4YCKic)
 <!-- YOUTUBE:END -->
 
