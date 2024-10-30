@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [HashiCorp - Vault - AWS Secret Engine](https://www.youtube.com/watch?v=C20ydQFLpk4)
 - [HashiCorp Consul - Roles and Policies](https://www.youtube.com/watch?v=cx13jLHes24)
 - [HashiCorp Consul - Script based service check via API](https://www.youtube.com/watch?v=ScSatK1cZ24)
 - [HashiCorp Consul - ACL](https://www.youtube.com/watch?v=SSAkPLXRQaE)
 - [HashiCorp Consul - Service Configuration](https://www.youtube.com/watch?v=vesOhBMNHKI)
-- [DJI Osmo Action 4 - Autum ride](https://www.youtube.com/watch?v=AOmmSv_J5ms)
 <!-- YOUTUBE:END -->
 
