@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Raspberry Pi 4 - Swarmpit - Python Webapp stack with nginx loadbalancing](https://www.youtube.com/watch?v=ekyaYCv98L0)
 - [HashiCorp - Vault - RabbitMQ Secrets Engine](https://www.youtube.com/watch?v=PdF6g2JTcKI)
 - [Python - Rio ui](https://www.youtube.com/watch?v=66tfPkG6DeY)
 - [Raspberry PI - Swarmpit](https://www.youtube.com/watch?v=l_yOkhEmwyc)
 - [Python - rq-dashboard-fast](https://www.youtube.com/watch?v=1c4CuxY7Sdo)
-- [Raspberry Pi 4 - Monitor storage with Kuma](https://www.youtube.com/watch?v=tsIyQnBcWfE)
 <!-- YOUTUBE:END -->
 
