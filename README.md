@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [OpenFaas - Bash streaming service](https://www.youtube.com/watch?v=iYPIALvuiNc)
 - [OpenFaas - Dockerfile - command as a funcition](https://www.youtube.com/watch?v=sKr5YHjeGcQ)
 - [OpenFaas - Introduction](https://www.youtube.com/watch?v=Z4w83qldTLU)
 - [HashiCorp - Vault - Audit and Logs](https://www.youtube.com/watch?v=ByVzFd9uzRI)
 - [Raspberry Pi 4 - Swarmpit - Redis backed flask webservice with Nginx reverse proxy](https://www.youtube.com/watch?v=YC1QXgDAjbY)
-- [Raspberry Pi Zero 2 W - PiHole assembly and config](https://www.youtube.com/watch?v=yEansmWf8HI)
 <!-- YOUTUBE:END -->
 
