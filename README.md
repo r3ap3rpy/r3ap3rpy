@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [New Setup and Tour](https://www.youtube.com/watch?v=uHE7UZPnmZs)
 - [Python - Pyinstrument THE profiler](https://www.youtube.com/watch?v=xLwBFjGFRw0)
 - [Python - v3.13 new features](https://www.youtube.com/watch?v=qyQhIxU7Mak)
 - [OpenFaas - Node streaming service](https://www.youtube.com/watch?v=D7fs-E4yibs)
 - [OpenFaas - Bash streaming service](https://www.youtube.com/watch?v=iYPIALvuiNc)
-- [OpenFaas - Dockerfile - command as a funcition](https://www.youtube.com/watch?v=sKr5YHjeGcQ)
 <!-- YOUTUBE:END -->
 
