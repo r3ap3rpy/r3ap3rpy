@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Raspberry Pi - Apache2 CMDB with ansible](https://www.youtube.com/watch?v=ac-2GM0dhcg)
+- [Python - The dictionary formatting problem](https://www.youtube.com/watch?v=JIY83V6VVo4)
+- [Gen AI - Pyramid Flow](https://www.youtube.com/watch?v=kBqa-srHBao)
 - [New Setup and Tour](https://www.youtube.com/watch?v=uHE7UZPnmZs)
 - [Python - Pyinstrument THE profiler](https://www.youtube.com/watch?v=xLwBFjGFRw0)
-- [Python - v3.13 new features](https://www.youtube.com/watch?v=qyQhIxU7Mak)
-- [OpenFaas - Node streaming service](https://www.youtube.com/watch?v=D7fs-E4yibs)
-- [OpenFaas - Bash streaming service](https://www.youtube.com/watch?v=iYPIALvuiNc)
 <!-- YOUTUBE:END -->
 
