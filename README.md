@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [HashiCorp Consul - Service Configuration](https://www.youtube.com/watch?v=vesOhBMNHKI)
 - [Raspberry Pi - Flatnotes public service](https://www.youtube.com/watch?v=eIPhP3yD_fc)
 - [Raspberry Pi - Apache2 CMDB with ansible](https://www.youtube.com/watch?v=ac-2GM0dhcg)
 - [Python - The dictionary formatting problem](https://www.youtube.com/watch?v=JIY83V6VVo4)
 - [Gen AI - Pyramid Flow](https://www.youtube.com/watch?v=kBqa-srHBao)
-- [New Setup and Tour](https://www.youtube.com/watch?v=uHE7UZPnmZs)
 <!-- YOUTUBE:END -->
 
