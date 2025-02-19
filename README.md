@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Rio ui](https://www.youtube.com/watch?v=66tfPkG6DeY)
 - [DJI Action 4 - Midday ride](https://www.youtube.com/watch?v=wLAchzxedCk)
 - [DJI- DJI Osmo Charging Handle](https://www.youtube.com/watch?v=XLCEba2ucF0)
 - [HashiCorp Consul - Roles and Policies](https://www.youtube.com/watch?v=cx13jLHes24)
 - [DJI - DJI Mic Mini vs DJI Mic 2](https://www.youtube.com/watch?v=EUSk8SCMfW0)
-- [Raspberry Pico - Kitronik Autonomous Robotics Platform](https://www.youtube.com/watch?v=5_jCOzdgPwY)
 <!-- YOUTUBE:END -->
 
