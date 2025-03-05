@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Gen AI - Pyramid Flow](https://www.youtube.com/watch?v=kBqa-srHBao)
 - [Kitronik Arcade for MicroBit](https://www.youtube.com/watch?v=ARYEhOXBMkM)
 - [Playground upgrade](https://www.youtube.com/watch?v=FvGLsDBnEo8)
 - [DJI Air 3 - Castle of Solymár](https://www.youtube.com/watch?v=zLTnDOc_CqI)
 - [BBC - TPBot and MicroBit robotics](https://www.youtube.com/watch?v=KAXM2sFi3aY)
-- [New Setup and Tour](https://www.youtube.com/watch?v=uHE7UZPnmZs)
 <!-- YOUTUBE:END -->
 
