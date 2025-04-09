@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Raspberry Pico - Kitronik Autonomous Robotics Platform](https://www.youtube.com/watch?v=5_jCOzdgPwY)
 - [Thursday ride or die on my FZS600](https://www.youtube.com/watch?v=nWovoM9MQ0E)
 - [ELECFREAKS Arcade for Microbit](https://www.youtube.com/watch?v=sOuQkvSm6TU)
 - [Python - The dictionary formatting problem](https://www.youtube.com/watch?v=JIY83V6VVo4)
 - [Raspberry Pi - Flatnotes public service](https://www.youtube.com/watch?v=eIPhP3yD_fc)
-- [Raspberry Pi - Apache2 CMDB with ansible](https://www.youtube.com/watch?v=ac-2GM0dhcg)
 <!-- YOUTUBE:END -->
 
