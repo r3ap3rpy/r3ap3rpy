@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Riding on the highway #2](https://www.youtube.com/watch?v=w5L1F4rjAEQ)
 - [Riding on the Highway #1](https://www.youtube.com/watch?v=MTy7xGj4AsE)
 - [MOTOVLOG #2](https://www.youtube.com/watch?v=eYpLbFEQ100)
 - [Raspberry Pico - Kitronik Autonomous Robotics Platform](https://www.youtube.com/watch?v=5_jCOzdgPwY)
 - [Thursday ride or die on my FZS600](https://www.youtube.com/watch?v=nWovoM9MQ0E)
-- [ELECFREAKS Arcade for Microbit](https://www.youtube.com/watch?v=sOuQkvSm6TU)
 <!-- YOUTUBE:END -->
 
