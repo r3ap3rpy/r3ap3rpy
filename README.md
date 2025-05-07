@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DJI Air 3 - Castle of Solymár](https://www.youtube.com/watch?v=zLTnDOc_CqI)
 - [BBC - TPBot and MicroBit robotics](https://www.youtube.com/watch?v=KAXM2sFi3aY)
 - [DJI- DJI Osmo Charging Handle](https://www.youtube.com/watch?v=XLCEba2ucF0)
 - [Old lake at Tata](https://www.youtube.com/watch?v=CNIc2IQSr7k)
 - [DJI - DJI Mic Mini vs DJI Mic 2](https://www.youtube.com/watch?v=EUSk8SCMfW0)
-- [Salgó Shelves](https://www.youtube.com/watch?v=kUwU9T_y8Ik)
 <!-- YOUTUBE:END -->
 
