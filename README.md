@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Polaroid - Hi Print 4x6 review](https://www.youtube.com/watch?v=OqMP4QC9BFU)
 - [Polaroid Flip](https://www.youtube.com/watch?v=JcsjtL_lWFw)
 - [GitLab - CICD   Pipeline to Docker Hub](https://www.youtube.com/watch?v=oSJN2E1uDlo)
 - [OpenNebula](https://www.youtube.com/watch?v=Iyym2xrzx2k)
 - [Rust - The slimmest Docker image for Axum and Tokio](https://www.youtube.com/watch?v=HDDP9bV0szw)
-- [Forgejo - Workflows and Wiki](https://www.youtube.com/watch?v=GyCn-5WPGiI)
 <!-- YOUTUBE:END -->
 
