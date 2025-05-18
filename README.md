@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
-- [Playground upgrade](https://www.youtube.com/watch?v=FvGLsDBnEo8)
-- [DJI Air 3 - Castle of Solymár](https://www.youtube.com/watch?v=zLTnDOc_CqI)
-- [BBC - TPBot and MicroBit robotics](https://www.youtube.com/watch?v=KAXM2sFi3aY)
-- [DJI- DJI Osmo Charging Handle](https://www.youtube.com/watch?v=XLCEba2ucF0)
-- [Old lake at Tata](https://www.youtube.com/watch?v=CNIc2IQSr7k)
+- [Polaroid Flip](https://www.youtube.com/watch?v=JcsjtL_lWFw)
+- [GitLab - CICD   Pipeline to Docker Hub](https://www.youtube.com/watch?v=oSJN2E1uDlo)
+- [OpenNebula](https://www.youtube.com/watch?v=Iyym2xrzx2k)
+- [Rust - The slimmest Docker image for Axum and Tokio](https://www.youtube.com/watch?v=HDDP9bV0szw)
+- [Forgejo - Workflows and Wiki](https://www.youtube.com/watch?v=GyCn-5WPGiI)
 <!-- YOUTUBE:END -->
 
