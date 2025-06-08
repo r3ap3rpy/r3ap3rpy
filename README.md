@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
-- [Kubernetes - Manage k8s cluster with Jenkins via API](https://www.youtube.com/watch?v=9Sx0zmDkAdo)
-- [Kubernetes - Jenkins stateful setup](https://www.youtube.com/watch?v=JJ3FvuHN3UI)
-- [Docker - Security hardening](https://www.youtube.com/watch?v=ePJaGoQj2I0)
-- [MOTOVLOG #2](https://www.youtube.com/watch?v=eYpLbFEQ100)
-- [ELECFREAKS Arcade for Microbit](https://www.youtube.com/watch?v=sOuQkvSm6TU)
+- [LXD - Advanced storage and network](https://www.youtube.com/watch?v=bHqdiQ3voHM)
+- [LXD - Introduction](https://www.youtube.com/watch?v=qgswnhGD_E0)
+- [LXC - Introduction](https://www.youtube.com/watch?v=S-QEYkIM03I)
+- [Kubernetes - Pulling from private registry](https://www.youtube.com/watch?v=ZI-a2xkUTGY)
+- [Kubernetes - Longhorn storage class setup](https://www.youtube.com/watch?v=6cBRMOeKGu4)
 <!-- YOUTUBE:END -->
 
