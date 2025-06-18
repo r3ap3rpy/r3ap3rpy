@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Forgejo - Setup and configuration](https://www.youtube.com/watch?v=jYAQg_tww-E)
 - [Salgó Shelves](https://www.youtube.com/watch?v=kUwU9T_y8Ik)
 - [Kubernetes - Helm tutorial and Dashboard setup](https://www.youtube.com/watch?v=2-GGKJCg35U)
 - [Kubernetes - Event Driven Autoscaler](https://www.youtube.com/watch?v=CKMH0C5NkXY)
 - [Kubernetes - Vertical Pod Autoscaler](https://www.youtube.com/watch?v=sG2oLsV2nlU)
-- [LXD - Advanced storage and network](https://www.youtube.com/watch?v=bHqdiQ3voHM)
 <!-- YOUTUBE:END -->
 
