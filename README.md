@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
-- [Forgejo - Setup and configuration](https://www.youtube.com/watch?v=jYAQg_tww-E)
-- [Salgó Shelves](https://www.youtube.com/watch?v=kUwU9T_y8Ik)
-- [Kubernetes - Helm tutorial and Dashboard setup](https://www.youtube.com/watch?v=2-GGKJCg35U)
-- [Kubernetes - Event Driven Autoscaler](https://www.youtube.com/watch?v=CKMH0C5NkXY)
-- [Kubernetes - Vertical Pod Autoscaler](https://www.youtube.com/watch?v=sG2oLsV2nlU)
+- [Podman - Composing Postgres and PgAdmin](https://www.youtube.com/watch?v=rMbUKd3YYXo)
+- [Podman - Using secrets](https://www.youtube.com/watch?v=IAUduOW7vSU)
+- [Podman - Wordpress Pod and some tips](https://www.youtube.com/watch?v=yyo0NL6ThdQ)
+- [Podman - Volumes and Networks](https://www.youtube.com/watch?v=Q-_OAlfeOuo)
+- [Podman - Introduction and getting started](https://www.youtube.com/watch?v=MkNkD_g0Qa4)
 <!-- YOUTUBE:END -->
 
