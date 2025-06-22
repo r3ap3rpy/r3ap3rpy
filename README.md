@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Yamaha FZS 600 - Battery Check](https://www.youtube.com/watch?v=-otC2LBeg0E)
 - [Podman - Composing Postgres and PgAdmin](https://www.youtube.com/watch?v=rMbUKd3YYXo)
 - [Podman - Using secrets](https://www.youtube.com/watch?v=IAUduOW7vSU)
 - [Podman - Wordpress Pod and some tips](https://www.youtube.com/watch?v=yyo0NL6ThdQ)
 - [Podman - Volumes and Networks](https://www.youtube.com/watch?v=Q-_OAlfeOuo)
-- [Podman - Introduction and getting started](https://www.youtube.com/watch?v=MkNkD_g0Qa4)
 <!-- YOUTUBE:END -->
 
