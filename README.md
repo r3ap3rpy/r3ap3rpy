@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
-- [Podman - Introduction and getting started](https://www.youtube.com/watch?v=MkNkD_g0Qa4)
-- [Dinner with Dolphins in Pula](https://www.youtube.com/watch?v=5wN_8IhPIL0)
-- [Morning in Medulin](https://www.youtube.com/watch?v=2lU_SeZVOzU)
-- [Forgejo - Workflows and Wiki](https://www.youtube.com/watch?v=GyCn-5WPGiI)
-- [Yamaha FZS 600 - Battery Check](https://www.youtube.com/watch?v=-otC2LBeg0E)
+- [Podman - Microk8s, generate and use k8s manifests](https://www.youtube.com/watch?v=2cwrxsbDbTk)
+- [Podman - Buildah, creating and managing images](https://www.youtube.com/watch?v=7tIv7XLwV-Q)
+- [Podman - Image management with Skopeo](https://www.youtube.com/watch?v=vjizPJ3haV4)
+- [Python - Parallel SSH](https://www.youtube.com/watch?v=KaFdYo356xM)
+- [PostgREST - Setup and introduction](https://www.youtube.com/watch?v=LgPaes1lbE8)
 <!-- YOUTUBE:END -->
 
