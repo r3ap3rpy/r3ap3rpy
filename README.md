@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Podman - Wordpress Pod and some tips](https://www.youtube.com/watch?v=yyo0NL6ThdQ)
 - [OpenNebula](https://www.youtube.com/watch?v=Iyym2xrzx2k)
 - [Podman - Volumes and Networks](https://www.youtube.com/watch?v=Q-_OAlfeOuo)
 - [Rust - The slimmest Docker image for Axum and Tokio](https://www.youtube.com/watch?v=HDDP9bV0szw)
 - [Podman - Microk8s, generate and use k8s manifests](https://www.youtube.com/watch?v=2cwrxsbDbTk)
-- [Podman - Buildah, creating and managing images](https://www.youtube.com/watch?v=7tIv7XLwV-Q)
 <!-- YOUTUBE:END -->
 
