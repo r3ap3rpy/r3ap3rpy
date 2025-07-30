@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Polaroid - Hi Print 4x6 review](https://www.youtube.com/watch?v=OqMP4QC9BFU)
 - [Podman - Composing Postgres and PgAdmin](https://www.youtube.com/watch?v=rMbUKd3YYXo)
 - [Polaroid Flip](https://www.youtube.com/watch?v=JcsjtL_lWFw)
 - [Podman - Using secrets](https://www.youtube.com/watch?v=IAUduOW7vSU)
 - [GitLab - CICD   Pipeline to Docker Hub](https://www.youtube.com/watch?v=oSJN2E1uDlo)
-- [Podman - Wordpress Pod and some tips](https://www.youtube.com/watch?v=yyo0NL6ThdQ)
 <!-- YOUTUBE:END -->
 
