@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Kubernetes - Cluster creation](https://www.youtube.com/watch?v=uhripPSH-1Q)
 - [DJI Action 4 - Ride on Friday at Budapest](https://www.youtube.com/watch?v=eZ0Iw2swH64)
 - [Morning in Medulin](https://www.youtube.com/watch?v=2lU_SeZVOzU)
 - [Polaroid - Hi Print 4x6 review](https://www.youtube.com/watch?v=OqMP4QC9BFU)
 - [Podman - Composing Postgres and PgAdmin](https://www.youtube.com/watch?v=rMbUKd3YYXo)
-- [Polaroid Flip](https://www.youtube.com/watch?v=JcsjtL_lWFw)
 <!-- YOUTUBE:END -->
 
