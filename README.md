@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Python - Parallel SSH](https://www.youtube.com/watch?v=KaFdYo356xM)
 - [Kubernetes - Deploying nginx](https://www.youtube.com/watch?v=DEhNzwps0jU)
 - [PostgREST - Setup and introduction](https://www.youtube.com/watch?v=LgPaes1lbE8)
 - [Kubernetes - Logging and Monitoring](https://www.youtube.com/watch?v=nX6ORvsbgcI)
 - [Dinner with Dolphins in Pula](https://www.youtube.com/watch?v=5wN_8IhPIL0)
-- [Kubernetes - Cluster creation](https://www.youtube.com/watch?v=uhripPSH-1Q)
 <!-- YOUTUBE:END -->
 
