@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Podman - Buildah, creating and managing images](https://www.youtube.com/watch?v=7tIv7XLwV-Q)
 - [Kubernetes - kube bench](https://www.youtube.com/watch?v=Lj6Mv_kzjRw)
 - [DJI Action 4 - Budapest to Cserépfalu](https://www.youtube.com/watch?v=F2WeehR5YvI)
 - [Podman - Image management with Skopeo](https://www.youtube.com/watch?v=vjizPJ3haV4)
 - [Kubernetes - CronJob](https://www.youtube.com/watch?v=39m0ihgWo9s)
-- [Python - Parallel SSH](https://www.youtube.com/watch?v=KaFdYo356xM)
 <!-- YOUTUBE:END -->
 
