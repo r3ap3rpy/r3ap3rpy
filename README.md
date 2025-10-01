@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Kubernetes - Deploy and Configure MetalLB](https://www.youtube.com/watch?v=KmJihStdQHI)
 - [Kubernetes - CIFS based pod storage](https://www.youtube.com/watch?v=6rmP6D5pmIU)
 - [Kubernetes - NFS exports storage for pods](https://www.youtube.com/watch?v=AOi2rk4v158)
 - [Podman - Microk8s, generate and use k8s manifests](https://www.youtube.com/watch?v=2cwrxsbDbTk)
 - [Kubernetes - Istio and Kiali](https://www.youtube.com/watch?v=CiKjlWhzUlg)
-- [DJI Action 4 - Ride on Friday at Budapest](https://www.youtube.com/watch?v=eZ0Iw2swH64)
 <!-- YOUTUBE:END -->
 
