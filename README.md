@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Kubernetes - Jenkins stateful setup](https://www.youtube.com/watch?v=JJ3FvuHN3UI)
 - [Docker - Security hardening](https://www.youtube.com/watch?v=ePJaGoQj2I0)
 - [Kubernetes - Traefik tutorial](https://www.youtube.com/watch?v=SdD1njsA_2U)
 - [Kubernetes - Deploy and Configure MetalLB](https://www.youtube.com/watch?v=KmJihStdQHI)
 - [Kubernetes - CIFS based pod storage](https://www.youtube.com/watch?v=6rmP6D5pmIU)
-- [Kubernetes - NFS exports storage for pods](https://www.youtube.com/watch?v=AOi2rk4v158)
 <!-- YOUTUBE:END -->
 
