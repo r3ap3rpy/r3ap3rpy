@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Kubernetes - Jenkins pipeline with python and junit](https://www.youtube.com/watch?v=oGqG66j9Ceo)
 - [Kubernetes - Manage k8s cluster with Jenkins via API](https://www.youtube.com/watch?v=9Sx0zmDkAdo)
 - [Kubernetes - Jenkins stateful setup](https://www.youtube.com/watch?v=JJ3FvuHN3UI)
 - [Docker - Security hardening](https://www.youtube.com/watch?v=ePJaGoQj2I0)
 - [Kubernetes - Traefik tutorial](https://www.youtube.com/watch?v=SdD1njsA_2U)
-- [Kubernetes - Deploy and Configure MetalLB](https://www.youtube.com/watch?v=KmJihStdQHI)
 <!-- YOUTUBE:END -->
 
