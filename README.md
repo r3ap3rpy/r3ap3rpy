@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [The Wooden house in the garden](https://www.youtube.com/watch?v=wG8GOvJy358)
 - [Ipad Air 3 and Keyboard unboxing](https://www.youtube.com/watch?v=iWnxAIGzolU)
 - [Kubernetes - Cluster visualization with KubeView](https://www.youtube.com/watch?v=LZBbAZnCwJE)
 - [Kubernetes - Jenkins pipeline with python and junit](https://www.youtube.com/watch?v=oGqG66j9Ceo)
 - [Kubernetes - Manage k8s cluster with Jenkins via API](https://www.youtube.com/watch?v=9Sx0zmDkAdo)
-- [Kubernetes - Jenkins stateful setup](https://www.youtube.com/watch?v=JJ3FvuHN3UI)
 <!-- YOUTUBE:END -->
 
