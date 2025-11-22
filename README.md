@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Ipad Air 3 and Keyboard unboxing](https://www.youtube.com/watch?v=iWnxAIGzolU)
 - [Insta360 x4 - Night Ride #2 #frosty #insta360 #insta360x4](https://www.youtube.com/shorts/Qc83GZ1YzDs)
 - [Insta360 x4 - Night ride #frosty #insta360 #insta360x4](https://www.youtube.com/shorts/HmDerrgSAMw)
 - [Kubernetes - Longhorn storage class setup](https://www.youtube.com/watch?v=6cBRMOeKGu4)
 - [#insta360x4 #insta360 #frosty #nightride](https://www.youtube.com/shorts/GxDreZcRwYE)
-- [Let&#39;s build a doghouse](https://www.youtube.com/watch?v=nVwLGV391Yw)
 <!-- YOUTUBE:END -->
 
