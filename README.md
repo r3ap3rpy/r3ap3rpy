@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [LXD - Introduction](https://www.youtube.com/watch?v=qgswnhGD_E0)
 - [Let&#39;s build a doghouse](https://www.youtube.com/watch?v=nVwLGV391Yw)
 - [LXC - Introduction](https://www.youtube.com/watch?v=S-QEYkIM03I)
 - [Motovlog #3](https://www.youtube.com/watch?v=7UiVV4Ww71U)
 - [The Wooden house in the garden](https://www.youtube.com/watch?v=wG8GOvJy358)
-- [Kubernetes - Pulling from private registry](https://www.youtube.com/watch?v=ZI-a2xkUTGY)
 <!-- YOUTUBE:END -->
 
