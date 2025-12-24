@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Kubernetes - Vertical Pod Autoscaler](https://www.youtube.com/watch?v=sG2oLsV2nlU)
 - [Nexus TUI - API Client](https://www.youtube.com/watch?v=rYtWWrNJfeI)
 - [UptimeKit - TUI](https://www.youtube.com/watch?v=WUXGu0bYBO0)
 - [LXD - Advanced storage and network](https://www.youtube.com/watch?v=bHqdiQ3voHM)
 - [LXD - Introduction](https://www.youtube.com/watch?v=qgswnhGD_E0)
-- [Let&#39;s build a doghouse](https://www.youtube.com/watch?v=nVwLGV391Yw)
 <!-- YOUTUBE:END -->
 
