@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Kubernetes - Helm tutorial and Dashboard setup](https://www.youtube.com/watch?v=2-GGKJCg35U)
 - [Zakopane  - from the air](https://www.youtube.com/watch?v=SZ9Vq2F0kMU)
 - [Zakopane - VLOG](https://www.youtube.com/watch?v=sE1PJfM-QWk)
 - [Kubernetes - Event Driven Autoscaler](https://www.youtube.com/watch?v=CKMH0C5NkXY)
 - [Kubernetes - Vertical Pod Autoscaler](https://www.youtube.com/watch?v=sG2oLsV2nlU)
-- [Nexus TUI - API Client](https://www.youtube.com/watch?v=rYtWWrNJfeI)
 <!-- YOUTUBE:END -->
 
