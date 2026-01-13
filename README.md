@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Async Dynamic Task](https://www.youtube.com/watch?v=znq9QwxG3tw)
 - [Rust - Associated Functions](https://www.youtube.com/watch?v=XiHr4ysQ3UE)
 - [Rust - Anyhow](https://www.youtube.com/watch?v=Qnvur-zEj1Y)
 - [Zakopane - VLOG](https://www.youtube.com/watch?v=sE1PJfM-QWk)
 - [Rust - Operator Overload](https://www.youtube.com/watch?v=auDnH9Z9LSM)
-- [Azure DevOps - KeyVault with Terraform](https://www.youtube.com/watch?v=-yt_PJmKkJI)
 <!-- YOUTUBE:END -->
 
