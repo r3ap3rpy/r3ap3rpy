@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Error handling](https://www.youtube.com/watch?v=kOQ9n2NioaI)
 - [Rust - Mutex protected queue](https://www.youtube.com/watch?v=z6EDc-cu4D8)
 - [Rust - Closures](https://www.youtube.com/watch?v=5cl7a23HU1U)
 - [Rust - Async Streams](https://www.youtube.com/watch?v=bLphLB7XL3k)
 - [Kubernetes - Certmanager installation and demo](https://www.youtube.com/watch?v=aTPpxEA-zsw)
-- [Zamárdi - The frozen Balaton](https://www.youtube.com/watch?v=QyVqTccjs-o)
 <!-- YOUTUBE:END -->
 
