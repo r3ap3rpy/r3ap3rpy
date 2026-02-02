@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - ctrlc](https://www.youtube.com/watch?v=o9rzylFgjdY)
 - [Kubernetes - JSONPath formatting](https://www.youtube.com/watch?v=z1EB45LIXx0)
 - [Kubernetes - CPU temperature monitoring with Zabbix](https://www.youtube.com/watch?v=bcz1TLnJEIw)
 - [Rust - Prime number generator](https://www.youtube.com/watch?v=mvDz9fdes3M)
 - [Kubernetes - Zabbix monitoring of Controller Manager](https://www.youtube.com/watch?v=94DAI9j5kkI)
-- [Kubernetes - Node selector and scheduling](https://www.youtube.com/watch?v=fkp4RHySBwo)
 <!-- YOUTUBE:END -->
 
