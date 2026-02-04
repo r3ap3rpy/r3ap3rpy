@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Kubernetes - Liveness, readiness and startup probes](https://www.youtube.com/watch?v=FAMmbzHm_kg)
 - [Rust - Trait composition](https://www.youtube.com/watch?v=JJtgQwQ59Tk)
 - [Rust - Thread barrier](https://www.youtube.com/watch?v=icR_QrjsuQI)
 - [Rust - ctrlc](https://www.youtube.com/watch?v=o9rzylFgjdY)
 - [Kubernetes - JSONPath formatting](https://www.youtube.com/watch?v=z1EB45LIXx0)
-- [Kubernetes - CPU temperature monitoring with Zabbix](https://www.youtube.com/watch?v=bcz1TLnJEIw)
 <!-- YOUTUBE:END -->
 
