@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - dynamic dispatch](https://www.youtube.com/watch?v=Zso_Wu6aXEg)
 - [Slovakia - Wellness Hotel Patince](https://www.youtube.com/watch?v=w1pClfcUZqg)
 - [Kubernetes - JSONPath formatting](https://www.youtube.com/watch?v=z1EB45LIXx0)
 - [Kubernetes - Liveness, readiness and startup probes](https://www.youtube.com/watch?v=FAMmbzHm_kg)
 - [Rust - Trait composition](https://www.youtube.com/watch?v=JJtgQwQ59Tk)
-- [Rust - Thread barrier](https://www.youtube.com/watch?v=icR_QrjsuQI)
 <!-- YOUTUBE:END -->
 
