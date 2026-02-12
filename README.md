@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Kubernetes - Canary with Ingress Nginx](https://www.youtube.com/watch?v=O2opJyGBQ4o)
 - [Rust - Traits](https://www.youtube.com/watch?v=I575k89IsVk)
 - [Rust - Conditional Conformance](https://www.youtube.com/watch?v=c4F0hYeX9Kw)
 - [Kubernetes - ETCD backup and restore](https://www.youtube.com/watch?v=hOHt0M-9H5U)
 - [Kubernetes - Tekton CICD](https://www.youtube.com/watch?v=hTI3WxlLTr8)
-- [Kubernetes - ArgoCD introduction](https://www.youtube.com/watch?v=jC3nMrvXIC4)
 <!-- YOUTUBE:END -->
 
