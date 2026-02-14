@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Stack trait](https://www.youtube.com/watch?v=IYQRxIgAUDQ)
 - [Kubernetes - Shadow deployment with Ingress Nginx](https://www.youtube.com/watch?v=xKuiJHIKGfI)
 - [Rust - Iterators and fibonacci](https://www.youtube.com/watch?v=8JTidnl11d4)
 - [Kubernetes - Gateway API with Metallb and Envoy Controller](https://www.youtube.com/watch?v=VO-_ZHpeU-s)
 - [Kubernetes - Canary with Ingress Nginx](https://www.youtube.com/watch?v=O2opJyGBQ4o)
-- [Rust - Traits](https://www.youtube.com/watch?v=I575k89IsVk)
 <!-- YOUTUBE:END -->
 
