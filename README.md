@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Pattern matching](https://www.youtube.com/watch?v=rQNtIKK9WSs)
+- [Rust - Error propagation File reading](https://www.youtube.com/watch?v=RP5-nAkUJPU)
 - [Rust - Error propagation in functions](https://www.youtube.com/watch?v=8E0APUEaY_U)
 - [Kubernetes - Using terraform to provision resources](https://www.youtube.com/watch?v=SgsGBcuRtHM)
 - [Rust - Negate trait](https://www.youtube.com/watch?v=Ho0czL0IaM4)
-- [Rust - Super trait](https://www.youtube.com/watch?v=g834DkXUPH8)
-- [Kubernetes - Blue Green deployment with Ingress Nginx controller](https://www.youtube.com/watch?v=7UdLjWPfzgk)
 <!-- YOUTUBE:END -->
 
