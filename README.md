@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - lifetimes](https://www.youtube.com/watch?v=qRqSRCLtE0M)
 - [Rust - Publish your crate on crates](https://www.youtube.com/watch?v=2lRypeTdz_E)
 - [Kubernetes - ArgoCD introduction](https://www.youtube.com/watch?v=jC3nMrvXIC4)
 - [Rust - create a library crate](https://www.youtube.com/watch?v=TKy8w805t_w)
 - [Kubernetes - Certificate based RBAC setup](https://www.youtube.com/watch?v=QvcCerFNtJ4)
-- [Rust - Pattern matching](https://www.youtube.com/watch?v=rQNtIKK9WSs)
 <!-- YOUTUBE:END -->
 
