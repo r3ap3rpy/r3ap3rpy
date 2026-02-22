@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - serde, serde json](https://www.youtube.com/watch?v=IDXjJZNumb0)
+- [Rust - threadlocal](https://www.youtube.com/watch?v=qr45ShDY2JM)
 - [Rust - Multithreaded TCP Server](https://www.youtube.com/watch?v=0dNwDSRVbBg)
 - [Rust - Shared mutable state across threads](https://www.youtube.com/watch?v=90E3gqXGNTI)
 - [Rust - Property based testing](https://www.youtube.com/watch?v=M8Dz7jTDg7s)
-- [Rust - create a library crate](https://www.youtube.com/watch?v=TKy8w805t_w)
-- [Rust - lifetimes](https://www.youtube.com/watch?v=qRqSRCLtE0M)
 <!-- YOUTUBE:END -->
 
