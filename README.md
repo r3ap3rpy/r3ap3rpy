@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Multithreaded TCP Server](https://www.youtube.com/watch?v=0dNwDSRVbBg)
+- [Rust - Shared mutable state across threads](https://www.youtube.com/watch?v=90E3gqXGNTI)
+- [Rust - Property based testing](https://www.youtube.com/watch?v=M8Dz7jTDg7s)
 - [Rust - create a library crate](https://www.youtube.com/watch?v=TKy8w805t_w)
 - [Rust - lifetimes](https://www.youtube.com/watch?v=qRqSRCLtE0M)
-- [Rust - Publish your crate on crates](https://www.youtube.com/watch?v=2lRypeTdz_E)
-- [Kubernetes - ArgoCD introduction](https://www.youtube.com/watch?v=jC3nMrvXIC4)
-- [Kubernetes - Certificate based RBAC setup](https://www.youtube.com/watch?v=QvcCerFNtJ4)
 <!-- YOUTUBE:END -->
 
