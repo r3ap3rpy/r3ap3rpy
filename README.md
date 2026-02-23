@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Hashset with mutex and threads](https://www.youtube.com/watch?v=sqlXDVK5Msk)
+- [Rust - memory mapped files](https://www.youtube.com/watch?v=ibgt-aHVevI)
+- [Rust - reading files piece by piece](https://www.youtube.com/watch?v=o0opzKWHtqk)
 - [Rust - serde, serde json](https://www.youtube.com/watch?v=IDXjJZNumb0)
 - [Rust - threadlocal](https://www.youtube.com/watch?v=qr45ShDY2JM)
-- [Rust - Multithreaded TCP Server](https://www.youtube.com/watch?v=0dNwDSRVbBg)
-- [Rust - Shared mutable state across threads](https://www.youtube.com/watch?v=90E3gqXGNTI)
-- [Rust - Property based testing](https://www.youtube.com/watch?v=M8Dz7jTDg7s)
 <!-- YOUTUBE:END -->
 
