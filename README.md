@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [UptimeKit - TUI](https://www.youtube.com/watch?v=WUXGu0bYBO0)
 - [Rust - Publish your crate on crates](https://www.youtube.com/watch?v=2lRypeTdz_E)
 - [Kubernetes - Tekton CICD](https://www.youtube.com/watch?v=hTI3WxlLTr8)
 - [Kubernetes - Cluster upgrade](https://www.youtube.com/watch?v=SaqF6Fa3tII)
 - [Rust - Hashset with mutex and threads](https://www.youtube.com/watch?v=sqlXDVK5Msk)
-- [Rust - memory mapped files](https://www.youtube.com/watch?v=ibgt-aHVevI)
 <!-- YOUTUBE:END -->
 
