@@ -14,8 +14,8 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
-- [DevOps - Netweave a vibecoded homepage](https://www.youtube.com/watch?v=2rArX7-rgNg)
 - [DJI Air - Alsóörs at spring](https://www.youtube.com/watch?v=d9ABVp-V3es)
+- [DevOps - Netweave a vibecoded homepage](https://www.youtube.com/watch?v=2rArX7-rgNg)
 - [Kubernetes - Canary with Ingress Nginx](https://www.youtube.com/watch?v=O2opJyGBQ4o)
 - [UptimeKit - TUI](https://www.youtube.com/watch?v=WUXGu0bYBO0)
 - [Rust - Publish your crate on crates](https://www.youtube.com/watch?v=2lRypeTdz_E)
