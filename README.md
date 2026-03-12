@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [DevOps - Netweave a vibecoded homepage](https://www.youtube.com/watch?v=2rArX7-rgNg)
 - [Nexus TUI - API Client](https://www.youtube.com/watch?v=rYtWWrNJfeI)
 - [Insta 360 x4 - Ride home](https://www.youtube.com/watch?v=_MNqudPgJFo)
 - [DJI Air - Alsóörs at spring](https://www.youtube.com/watch?v=d9ABVp-V3es)
-- [DevOps - Netweave a vibecoded homepage](https://www.youtube.com/watch?v=2rArX7-rgNg)
 - [Kubernetes - Canary with Ingress Nginx](https://www.youtube.com/watch?v=O2opJyGBQ4o)
 <!-- YOUTUBE:END -->
 
