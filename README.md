@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Kubernetes - Blue Green deployment with Ingress Nginx controller](https://www.youtube.com/watch?v=7UdLjWPfzgk)
 - [Azure DevOps - KeyVault with Terraform](https://www.youtube.com/watch?v=-yt_PJmKkJI)
 - [Rust - sshapp](https://www.youtube.com/watch?v=AfWJx0LJ3eA)
 - [Kubernetes - Shadow deployment with Ingress Nginx](https://www.youtube.com/watch?v=xKuiJHIKGfI)
 - [DevOps - Netweave a vibecoded homepage](https://www.youtube.com/watch?v=2rArX7-rgNg)
-- [Nexus TUI - API Client](https://www.youtube.com/watch?v=rYtWWrNJfeI)
 <!-- YOUTUBE:END -->
 
