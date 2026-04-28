@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - fan in fan out](https://www.youtube.com/watch?v=ko4fyZVW3fs)
 - [Wolfstack - Setup and Getting started](https://www.youtube.com/watch?v=v0AzCMMk_fM)
 - [Rust - Associated Type Trait](https://www.youtube.com/watch?v=4mGQE7_bWCk)
 - [Rust - Async Dynamic Task](https://www.youtube.com/watch?v=znq9QwxG3tw)
 - [Rust - Associated Functions](https://www.youtube.com/watch?v=XiHr4ysQ3UE)
-- [Rust - Anyhow](https://www.youtube.com/watch?v=Qnvur-zEj1Y)
 <!-- YOUTUBE:END -->
 
