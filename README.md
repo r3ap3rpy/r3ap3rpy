@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [a$$holes #2](https://www.youtube.com/shorts/OQ0LN4akc6M)
 - [Work from home vibes](https://www.youtube.com/shorts/MzdQIB6ncHc)
 - [a$$holes #1](https://www.youtube.com/shorts/4L_YfVXmLb0)
 - [Rust - CLI App](https://www.youtube.com/watch?v=gKFg3TdQ3iw)
 - [Uppsala](https://www.youtube.com/watch?v=kO-ejx1zg7I)
-- [Rust - sshapp](https://www.youtube.com/watch?v=AfWJx0LJ3eA)
 <!-- YOUTUBE:END -->
 
