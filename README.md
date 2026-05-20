@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Closures](https://www.youtube.com/watch?v=5cl7a23HU1U)
 - [Rust - Chimera Github Runner](https://www.youtube.com/watch?v=Tik9GTIi2xI)
 - [Kamal Deploy - Getting started](https://www.youtube.com/watch?v=De7BE3EmIPA)
 - [Rust - Async Streams](https://www.youtube.com/watch?v=bLphLB7XL3k)
 - [a$$holes #2](https://www.youtube.com/shorts/OQ0LN4akc6M)
-- [Work from home vibes](https://www.youtube.com/shorts/MzdQIB6ncHc)
 <!-- YOUTUBE:END -->
 
