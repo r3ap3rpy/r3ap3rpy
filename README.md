@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Kubernetes - Adding node to Zabbix](https://www.youtube.com/watch?v=gnW03V5hrUA)
 - [Paris](https://www.youtube.com/watch?v=c6d0s-sLva8)
 - [A$$HOLES #4](https://www.youtube.com/shorts/shB1xM11hgU)
 - [Rust - Error handling](https://www.youtube.com/watch?v=kOQ9n2NioaI)
 - [Rust - Chimera Github Runner](https://www.youtube.com/watch?v=Tik9GTIi2xI)
-- [Rust - Mutex protected queue](https://www.youtube.com/watch?v=z6EDc-cu4D8)
 <!-- YOUTUBE:END -->
 
