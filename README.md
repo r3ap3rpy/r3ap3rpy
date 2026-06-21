@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [A$$HOLES #7](https://www.youtube.com/shorts/tTyBeNdEev8)
 - [A$$HOLES #6](https://www.youtube.com/shorts/3dXq8amH9LI)
 - [Rust - HashSet tag and filter](https://www.youtube.com/watch?v=B6WdruhvPKA)
 - [A$$HOLES #5](https://www.youtube.com/shorts/fUrTCFRfh_I)
 - [Kubernetes - Adding node to Zabbix](https://www.youtube.com/watch?v=gnW03V5hrUA)
-- [Paris](https://www.youtube.com/watch?v=c6d0s-sLva8)
 <!-- YOUTUBE:END -->
 
