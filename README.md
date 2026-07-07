@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [A$$HOLES #9](https://www.youtube.com/shorts/n-eD1OK398U)
 - [Kubernetes - Zabbix monitoring of Controller Manager](https://www.youtube.com/watch?v=94DAI9j5kkI)
 - [A$$HOLES #8](https://www.youtube.com/shorts/mql_p844LKo)
 - [Kubernetes - Node selector and scheduling](https://www.youtube.com/watch?v=fkp4RHySBwo)
 - [A$$HOLES #7](https://www.youtube.com/shorts/tTyBeNdEev8)
-- [A$$HOLES #6](https://www.youtube.com/shorts/3dXq8amH9LI)
 <!-- YOUTUBE:END -->
 
