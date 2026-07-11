@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Cruising on the Danube in Budapest](https://www.youtube.com/watch?v=c45TqrR93jY)
 - [Rust - clippy and some tricks](https://www.youtube.com/watch?v=r9Ss4_-Wdsg)
 - [Rust - Display, Debug, Default](https://www.youtube.com/watch?v=iZ96cc5kYRA)
 - [A$$HOLES #9](https://www.youtube.com/shorts/n-eD1OK398U)
 - [Kubernetes - Zabbix monitoring of Controller Manager](https://www.youtube.com/watch?v=94DAI9j5kkI)
-- [A$$HOLES #8](https://www.youtube.com/shorts/mql_p844LKo)
 <!-- YOUTUBE:END -->
 
