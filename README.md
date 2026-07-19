@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - clippy and some tricks](https://www.youtube.com/watch?v=r9Ss4_-Wdsg)
 - [Rust vs Python - 1000 000 struct memory comparision](https://www.youtube.com/watch?v=bStu1s7C9H0)
 - [Kubernetes - CPU temperature monitoring with Zabbix](https://www.youtube.com/watch?v=bcz1TLnJEIw)
 - [Cruising on the Danube in Budapest](https://www.youtube.com/watch?v=c45TqrR93jY)
 - [Rust - Display, Debug, Default](https://www.youtube.com/watch?v=iZ96cc5kYRA)
-- [Rust - clippy and some tricks](https://www.youtube.com/watch?v=r9Ss4_-Wdsg)
 <!-- YOUTUBE:END -->
 
