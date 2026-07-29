@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Thread barrier](https://www.youtube.com/watch?v=icR_QrjsuQI)
 - [Rust - Playing with Macros](https://www.youtube.com/watch?v=6UZxAYcC7AI)
 - [Rust vs Python - OOP   Add](https://www.youtube.com/watch?v=rJk5xSrV2Pw)
 - [Rust vs Python - Walrus vs While Let](https://www.youtube.com/watch?v=WmFilr_Xtqs)
 - [Rust - guard](https://www.youtube.com/watch?v=ky7cpjByhRs)
-- [Rust - ctrlc](https://www.youtube.com/watch?v=o9rzylFgjdY)
 <!-- YOUTUBE:END -->
 
