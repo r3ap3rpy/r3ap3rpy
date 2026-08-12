@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - dynamic dispatch](https://www.youtube.com/watch?v=Zso_Wu6aXEg)
 - [Rust vs Python - OOP   Add](https://www.youtube.com/watch?v=rJk5xSrV2Pw)
 - [Rust - Factory pattern](https://www.youtube.com/watch?v=J7s6Ud28adU)
 - [Rust - Trait composition](https://www.youtube.com/watch?v=JJtgQwQ59Tk)
 - [Rust vs Python - Walrus vs While Let](https://www.youtube.com/watch?v=WmFilr_Xtqs)
-- [Rust - Thread barrier](https://www.youtube.com/watch?v=icR_QrjsuQI)
 <!-- YOUTUBE:END -->
 
