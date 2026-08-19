@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Playing with Option and Enum](https://www.youtube.com/watch?v=BTi3yDYy1Qo)
 - [Rust - ?](https://www.youtube.com/watch?v=y9eiZ09gnSs)
 - [Rust - abort and unwind](https://www.youtube.com/watch?v=clgaQAhF7gk)
 - [Rust - dynamic dispatch](https://www.youtube.com/watch?v=Zso_Wu6aXEg)
 - [Rust vs Python - OOP   Add](https://www.youtube.com/watch?v=rJk5xSrV2Pw)
-- [Rust - Factory pattern](https://www.youtube.com/watch?v=J7s6Ud28adU)
 <!-- YOUTUBE:END -->
 
