@@ -14,9 +14,9 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Playing with Option and Enum](https://www.youtube.com/watch?v=BTi3yDYy1Qo)
 - [Rust - abort and unwind](https://www.youtube.com/watch?v=clgaQAhF7gk)
 - [Kubernetes - Kustomize introduction](https://www.youtube.com/watch?v=bw0KdE5L714)
-- [Rust - Playing with Option and Enum](https://www.youtube.com/watch?v=BTi3yDYy1Qo)
 - [Rust - ?](https://www.youtube.com/watch?v=y9eiZ09gnSs)
 - [Rust - dynamic dispatch](https://www.youtube.com/watch?v=Zso_Wu6aXEg)
 <!-- YOUTUBE:END -->
