@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [A$$HOLES #10](https://www.youtube.com/shorts/x23C6dINN6g)
 - [Poroszló - Tisza tó](https://www.youtube.com/watch?v=8971Exov8BI)
 - [Rust - Playing with Option and Enum](https://www.youtube.com/watch?v=BTi3yDYy1Qo)
 - [Rust - abort and unwind](https://www.youtube.com/watch?v=clgaQAhF7gk)
 - [Kubernetes - Kustomize introduction](https://www.youtube.com/watch?v=bw0KdE5L714)
-- [Rust - ?](https://www.youtube.com/watch?v=y9eiZ09gnSs)
 <!-- YOUTUBE:END -->
 
