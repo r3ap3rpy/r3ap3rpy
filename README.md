@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [A$$HOLES #12](https://www.youtube.com/shorts/feL_GA0Kkqk)
 - [A$$HOLES #11](https://www.youtube.com/shorts/89P7fNK0API)
 - [Rust - Reqsh](https://www.youtube.com/watch?v=mVW1HYlBQWY)
 - [Rust - Enum with match](https://www.youtube.com/watch?v=JJ6pCnj1bLk)
 - [A$$HOLES #10](https://www.youtube.com/shorts/x23C6dINN6g)
-- [Poroszló - Tisza tó](https://www.youtube.com/watch?v=8971Exov8BI)
 <!-- YOUTUBE:END -->
 
