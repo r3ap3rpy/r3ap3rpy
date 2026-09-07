@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [A$$HOLES #13](https://www.youtube.com/shorts/ho0gVgkDCTU)
 - [Rust - Reqsh](https://www.youtube.com/watch?v=mVW1HYlBQWY)
 - [Rust - Conditional Conformance](https://www.youtube.com/watch?v=c4F0hYeX9Kw)
 - [A$$HOLES #12](https://www.youtube.com/shorts/feL_GA0Kkqk)
 - [A$$HOLES #11](https://www.youtube.com/shorts/89P7fNK0API)
-- [Rust - Enum with match](https://www.youtube.com/watch?v=JJ6pCnj1bLk)
 <!-- YOUTUBE:END -->
 
