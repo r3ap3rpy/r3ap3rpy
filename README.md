@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [A$$HOLES #14](https://www.youtube.com/shorts/90lHpxw5BSU)
 - [Rust - Playing with Arc](https://www.youtube.com/watch?v=F0HR1J5tsI4)
 - [Rust - Ini and Yaml configs](https://www.youtube.com/watch?v=QaUnNa_2_jg)
 - [Rust - Logging, python like](https://www.youtube.com/watch?v=3zJC3bdnrI4)
 - [Rust - Traits](https://www.youtube.com/watch?v=I575k89IsVk)
-- [A$$HOLES #13](https://www.youtube.com/shorts/ho0gVgkDCTU)
 <!-- YOUTUBE:END -->
 
