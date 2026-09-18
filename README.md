@@ -15,9 +15,9 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
 - [Croatia - Zadar - Day #4](https://www.youtube.com/watch?v=Cy02zyApCNM)
-- [Croatia - Zadar - #3](https://www.youtube.com/watch?v=b9Cg9rLw2rU)
+- [Croatia - Zadar - Day #3](https://www.youtube.com/watch?v=b9Cg9rLw2rU)
+- [Croatia - Zadar - Day #2](https://www.youtube.com/watch?v=ys-nhcf0D3A)
 - [Croatia - Zadar - Day #1](https://www.youtube.com/watch?v=yj_sGBd1P9c)
 - [Rust - Iterators and fibonacci](https://www.youtube.com/watch?v=8JTidnl11d4)
-- [A$$HOLES #14](https://www.youtube.com/shorts/90lHpxw5BSU)
 <!-- YOUTUBE:END -->
 
