@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [A$$HOLES #15](https://www.youtube.com/shorts/PuErFX7NftM)
+- [Rust - Stack trait](https://www.youtube.com/watch?v=IYQRxIgAUDQ)
 - [Croatia - Zadar - Day #4](https://www.youtube.com/watch?v=Cy02zyApCNM)
 - [Croatia - Zadar - Day #3](https://www.youtube.com/watch?v=b9Cg9rLw2rU)
 - [Croatia - Zadar - Day #2](https://www.youtube.com/watch?v=ys-nhcf0D3A)
-- [Rust - support directories](https://www.youtube.com/watch?v=jHfpW3X1mnA)
-- [Croatia - Zadar - Day #1](https://www.youtube.com/watch?v=yj_sGBd1P9c)
 <!-- YOUTUBE:END -->
 
