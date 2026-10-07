@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Negate trait](https://www.youtube.com/watch?v=Ho0czL0IaM4)
 - [Rust - support directories](https://www.youtube.com/watch?v=jHfpW3X1mnA)
 - [Rust - Super trait](https://www.youtube.com/watch?v=g834DkXUPH8)
 - [Rust - Ini and Yaml configs](https://www.youtube.com/watch?v=QaUnNa_2_jg)
 - [A$$HOLES #16](https://www.youtube.com/shorts/v_93pm2xYcE)
-- [A$$HOLES #15](https://www.youtube.com/shorts/PuErFX7NftM)
 <!-- YOUTUBE:END -->
 
