@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [A$$HOLES #18](https://www.youtube.com/shorts/Yx8_Ac5MqHY)
+- [Rust - Error propagation File reading](https://www.youtube.com/watch?v=RP5-nAkUJPU)
 - [Traffic Jam](https://www.youtube.com/watch?v=z2Y07LuCSEA)
 - [A$$HOLES #17](https://www.youtube.com/shorts/al9d5y3S82Y)
 - [Rust - Error propagation in functions](https://www.youtube.com/watch?v=8E0APUEaY_U)
-- [xyOps - Tutorial and Guide](https://www.youtube.com/watch?v=PWPvywAa2eY)
-- [Cronicle - Setup and guide](https://www.youtube.com/watch?v=b4OhYOABvBA)
 <!-- YOUTUBE:END -->
 
