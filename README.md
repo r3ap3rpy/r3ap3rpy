@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [Rust - Property based testing](https://www.youtube.com/watch?v=M8Dz7jTDg7s)
 - [Rust - lifetimes](https://www.youtube.com/watch?v=qRqSRCLtE0M)
 - [A$$HOLES #20](https://www.youtube.com/shorts/n8HsYCaDY6M)
 - [A$$HOLES #19](https://www.youtube.com/shorts/r3PwShSGcTw)
 - [Rust - Pattern matching](https://www.youtube.com/watch?v=rQNtIKK9WSs)
-- [A$$HOLES #18](https://www.youtube.com/shorts/Yx8_Ac5MqHY)
 <!-- YOUTUBE:END -->
 
