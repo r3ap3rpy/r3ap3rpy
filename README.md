@@ -14,10 +14,10 @@ I have three personal sites hosted on [pythonanywhere](https://www.pythonanywher
 
 ### :video_camera: Latest of my youtube videos
 <!-- YOUTUBE:START -->
+- [A$$HOLES #23](https://www.youtube.com/shorts/pjD-kDyr9Sk)
 - [A$$HOLES #22](https://www.youtube.com/shorts/Vr0AuMQXUrU)
 - [Rust - Multithreaded TCP Server](https://www.youtube.com/watch?v=0dNwDSRVbBg)
 - [A$$HOLES #21](https://www.youtube.com/shorts/vsJBXVtkBBA)
 - [Rust - Shared mutable state across threads](https://www.youtube.com/watch?v=90E3gqXGNTI)
-- [Rust - Property based testing](https://www.youtube.com/watch?v=M8Dz7jTDg7s)
 <!-- YOUTUBE:END -->
 
